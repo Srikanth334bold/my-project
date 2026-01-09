@@ -1,0 +1,21 @@
+[INFO] Monitoring conveyor 3
+[INFO] Log file: /home/bamul-bk/project/Bamul_Final/camera_3.log
+[INFO] State loaded | inode=18121365 offset=3704028
+[INFO] Pre-generating audio files using pyttsx3...
+[INFO] Audio warmup complete
+[INFO] Caught up to live log
+ * Serving Flask app 'logger1'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.0.115:5003
+[33mPress CTRL+C to quit[0m
+192.168.0.115 - - [08/Jan/2026 18:19:21] "GET /stream HTTP/1.1" 200 -
+192.168.0.115 - - [08/Jan/2026 18:19:21] "[33mGET /audio/half_shubham.mp3?1767876561757 HTTP/1.1[0m" 404 -
+192.168.0.115 - - [08/Jan/2026 18:19:23] "[33mGET /audio/half_shubham.mp3?1767876563590 HTTP/1.1[0m" 404 -
+192.168.0.115 - - [08/Jan/2026 18:19:25] "[33mGET /audio/half_shubham.mp3?1767876565134 HTTP/1.1[0m" 404 -
+192.168.0.115 - - [08/Jan/2026 18:19:26] "[33mGET /audio/one_shubham.mp3?1767876566745 HTTP/1.1[0m" 404 -
+192.168.0.115 - - [08/Jan/2026 18:19:31] "[33mGET /audio/half_shubham.mp3?1767876569435 HTTP/1.1[0m" 404 -
+192.168.0.115 - - [08/Jan/2026 18:19:33] "[33mGET /audio/half_shubham.mp3?1767876571547 HTTP/1.1[0m" 404 -
+192.168.0.115 - - [08/Jan/2026 18:19:35] "[33mGET /audio/half_shubham.mp3?1767876573692 HTTP/1.1[0m" 404 -

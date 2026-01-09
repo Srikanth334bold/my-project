@@ -1,0 +1,981 @@
+[INFO] Monitoring conveyor 2
+[INFO] Log file: /home/bamul-bk/project/Bamul_Final/camera_2.log
+[INFO] State loaded | inode=18121195 offset=3551895
+[INFO] Pre-generating audio files using pyttsx3...
+[INFO] Audio warmup complete
+ * Serving Flask app 'logger1'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.0.115:5002
+[33mPress CTRL+C to quit[0m
+192.168.0.17 - - [08/Jan/2026 18:19:20] "GET /stream HTTP/1.1" 200 -
+192.168.0.17 - - [08/Jan/2026 18:19:20] "[35m[1mGET /audio/half_shubham.wav?1767876560256 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:22] "[35m[1mGET /audio/one_toned.wav?1767876562132 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:24] "[35m[1mGET /audio/half_toned.wav?1767876563890 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:25] "[35m[1mGET /audio/one_shubham.wav?1767876565686 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:27] "[35m[1mGET /audio/half_toned.wav?1767876567374 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:29] "[35m[1mGET /audio/one_toned.wav?1767876569408 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:31] "[35m[1mGET /audio/half_toned.wav?1767876570874 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:35] "[35m[1mGET /audio/one_toned.wav?1767876575397 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:37] "[35m[1mGET /audio/one_toned.wav?1767876576983 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:38] "[35m[1mGET /audio/half_shubham.wav?1767876578444 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:40] "[35m[1mGET /audio/one_shubham.wav?1767876580500 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:42] "[35m[1mGET /audio/one_toned.wav?1767876582291 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:46] "[35m[1mGET /audio/half_toned.wav?1767876586661 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:48] "[35m[1mGET /audio/half_toned.wav?1767876588464 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:50] "[35m[1mGET /audio/one_toned.wav?1767876590306 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:52] "[35m[1mGET /audio/half_toned.wav?1767876591842 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:53] "[35m[1mGET /audio/half_shubham.wav?1767876593348 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:55] "[35m[1mGET /audio/one_toned.wav?1767876595135 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:19:59] "[35m[1mGET /audio/one_toned.wav?1767876599427 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:01] "[35m[1mGET /audio/half_toned.wav?1767876600956 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:03] "[35m[1mGET /audio/one_toned.wav?1767876602742 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:04] "[35m[1mGET /audio/one_shubham.wav?1767876604384 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:08] "[35m[1mGET /audio/one_toned.wav?1767876607807 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:09] "[35m[1mGET /audio/half_toned.wav?1767876609344 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:11] "[35m[1mGET /audio/one_toned.wav?1767876610839 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:12] "[35m[1mGET /audio/one_toned.wav?1767876612267 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:14] "[35m[1mGET /audio/one_toned.wav?1767876613789 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:15] "[35m[1mGET /audio/half_toned.wav?1767876615601 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:17] "[35m[1mGET /audio/one_shubham.wav?1767876617460 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:19] "[35m[1mGET /audio/half_toned.wav?1767876619354 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:21] "[35m[1mGET /audio/half_toned.wav?1767876621140 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:23] "[35m[1mGET /audio/one_toned.wav?1767876623209 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:24] "[35m[1mGET /audio/one_toned.wav?1767876624730 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:26] "[35m[1mGET /audio/half_toned.wav?1767876626248 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:27] "[35m[1mGET /audio/one_toned.wav?1767876627470 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:29] "[35m[1mGET /audio/half_shubham.wav?1767876629002 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:31] "[35m[1mGET /audio/half_toned.wav?1767876630801 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:32] "[35m[1mGET /audio/half_shubham.wav?1767876632628 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:35] "[35m[1mGET /audio/half_toned.wav?1767876634829 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:36] "[35m[1mGET /audio/one_toned.wav?1767876636333 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:38] "[35m[1mGET /audio/one_toned.wav?1767876637819 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:40] "[35m[1mGET /audio/one_shubham.wav?1767876639967 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:42] "[35m[1mGET /audio/one_toned.wav?1767876641826 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:43] "[35m[1mGET /audio/half_toned.wav?1767876643296 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:45] "[35m[1mGET /audio/one_toned.wav?1767876645213 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:46] "[35m[1mGET /audio/half_toned.wav?1767876646692 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:48] "[35m[1mGET /audio/half_toned.wav?1767876648486 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:50] "[35m[1mGET /audio/one_toned.wav?1767876650252 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:52] "[35m[1mGET /audio/one_shubham.wav?1767876651924 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:54] "[35m[1mGET /audio/one_toned.wav?1767876653859 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:55] "[35m[1mGET /audio/half_toned.wav?1767876655333 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:57] "[35m[1mGET /audio/one_toned.wav?1767876656839 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:20:58] "[35m[1mGET /audio/half_shubham.wav?1767876658325 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:00] "[35m[1mGET /audio/half_toned.wav?1767876660113 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:02] "[35m[1mGET /audio/one_toned.wav?1767876661750 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:03] "[35m[1mGET /audio/half_toned.wav?1767876663282 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:05] "[35m[1mGET /audio/one_toned.wav?1767876665090 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:06] "[35m[1mGET /audio/one_toned.wav?1767876666577 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:08] "[35m[1mGET /audio/half_shubham.wav?1767876668092 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:10] "[35m[1mGET /audio/half_toned.wav?1767876670141 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:12] "[35m[1mGET /audio/one_shubham.wav?1767876671824 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:14] "[35m[1mGET /audio/one_toned.wav?1767876674497 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:16] "[35m[1mGET /audio/one_toned.wav?1767876676100 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:18] "[35m[1mGET /audio/half_toned.wav?1767876678229 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:20] "[35m[1mGET /audio/one_toned.wav?1767876680033 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:21] "[35m[1mGET /audio/half_toned.wav?1767876681685 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:23] "[35m[1mGET /audio/one_toned.wav?1767876683205 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:25] "[35m[1mGET /audio/one_toned.wav?1767876684837 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:26] "[35m[1mGET /audio/half_shubham.wav?1767876686314 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:28] "[35m[1mGET /audio/one_toned.wav?1767876688734 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:31] "[35m[1mGET /audio/half_toned.wav?1767876691267 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:33] "[35m[1mGET /audio/half_shubham.wav?1767876693050 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:35] "[35m[1mGET /audio/half_shubham.wav?1767876694845 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:37] "[35m[1mGET /audio/one_shubham.wav?1767876697505 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:39] "[35m[1mGET /audio/half_toned.wav?1767876698974 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:41] "[35m[1mGET /audio/one_toned.wav?1767876701358 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:43] "[35m[1mGET /audio/one_toned.wav?1767876702931 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:44] "[35m[1mGET /audio/one_toned.wav?1767876704408 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:47] "[35m[1mGET /audio/half_toned.wav?1767876707631 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:49] "[35m[1mGET /audio/half_toned.wav?1767876709439 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:51] "[35m[1mGET /audio/one_toned.wav?1767876711392 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:53] "[35m[1mGET /audio/one_toned.wav?1767876712914 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:54] "[35m[1mGET /audio/half_toned.wav?1767876714531 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:56] "[35m[1mGET /audio/one_toned.wav?1767876716049 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:57] "[35m[1mGET /audio/one_shubham.wav?1767876717553 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:21:59] "[35m[1mGET /audio/half_toned.wav?1767876719133 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:00] "[35m[1mGET /audio/one_toned.wav?1767876720627 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:04] "[35m[1mGET /audio/one_toned.wav?1767876723819 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:05] "[35m[1mGET /audio/one_toned.wav?1767876725349 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:07] "[35m[1mGET /audio/one_toned.wav?1767876726871 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:08] "[35m[1mGET /audio/half_toned.wav?1767876728312 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:11] "[35m[1mGET /audio/half_shubham.wav?1767876731601 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:13] "[35m[1mGET /audio/half_shubham.wav?1767876733385 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:15] "[35m[1mGET /audio/one_toned.wav?1767876735013 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:16] "[35m[1mGET /audio/half_shubham.wav?1767876736552 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:18] "[35m[1mGET /audio/half_toned.wav?1767876738063 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:20] "[35m[1mGET /audio/one_toned.wav?1767876739888 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:21] "[35m[1mGET /audio/one_shubham.wav?1767876741435 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:27] "[35m[1mGET /audio/one_toned.wav?1767876747722 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:29] "[35m[1mGET /audio/one_toned.wav?1767876749277 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:32] "[35m[1mGET /audio/one_toned.wav?1767876752762 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:36] "[35m[1mGET /audio/one_toned.wav?1767876756038 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:39] "[35m[1mGET /audio/half_shubham.wav?1767876759225 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:40] "[35m[1mGET /audio/half_toned.wav?1767876760724 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:42] "[35m[1mGET /audio/one_toned.wav?1767876762545 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:44] "[35m[1mGET /audio/one_toned.wav?1767876763981 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:45] "[35m[1mGET /audio/one_shubham.wav?1767876765586 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:47] "[35m[1mGET /audio/half_shubham.wav?1767876767221 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:49] "[35m[1mGET /audio/one_toned.wav?1767876769247 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:51] "[35m[1mGET /audio/half_shubham.wav?1767876770873 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:22:56] "[35m[1mGET /audio/half_toned.wav?1767876776270 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:00] "[35m[1mGET /audio/one_toned.wav?1767876780256 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:02] "[35m[1mGET /audio/half_toned.wav?1767876781859 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:03] "[35m[1mGET /audio/one_toned.wav?1767876783666 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:05] "[35m[1mGET /audio/half_toned.wav?1767876785361 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:07] "[35m[1mGET /audio/one_shubham.wav?1767876787260 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:08] "[35m[1mGET /audio/one_toned.wav?1767876788745 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:10] "[35m[1mGET /audio/one_toned.wav?1767876790251 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:12] "[35m[1mGET /audio/one_toned.wav?1767876791923 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:13] "[35m[1mGET /audio/one_toned.wav?1767876793435 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:16] "[35m[1mGET /audio/half_toned.wav?1767876796169 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:20] "[35m[1mGET /audio/half_shubham.wav?1767876800020 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:22] "[35m[1mGET /audio/half_toned.wav?1767876801891 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:24] "[35m[1mGET /audio/one_toned.wav?1767876803860 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:25] "[35m[1mGET /audio/half_shubham.wav?1767876805344 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:27] "[35m[1mGET /audio/half_toned.wav?1767876807135 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:29] "[35m[1mGET /audio/half_shubham.wav?1767876808903 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:30] "[35m[1mGET /audio/one_toned.wav?1767876810682 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:32] "[35m[1mGET /audio/one_toned.wav?1767876812132 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:38] "[35m[1mGET /audio/one_toned.wav?1767876818239 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:40] "[35m[1mGET /audio/one_shubham.wav?1767876819813 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:41] "[35m[1mGET /audio/one_toned.wav?1767876821593 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:48] "[35m[1mGET /audio/half_toned.wav?1767876828105 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:50] "[35m[1mGET /audio/one_toned.wav?1767876829901 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:51] "[35m[1mGET /audio/one_toned.wav?1767876831671 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:53] "[35m[1mGET /audio/half_shubham.wav?1767876833113 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:55] "[35m[1mGET /audio/half_toned.wav?1767876834934 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:57] "[35m[1mGET /audio/one_toned.wav?1767876836720 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:23:58] "[35m[1mGET /audio/one_toned.wav?1767876838333 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:00] "[35m[1mGET /audio/one_shubham.wav?1767876839853 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:01] "[35m[1mGET /audio/half_shubham.wav?1767876841440 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:03] "[35m[1mGET /audio/one_toned.wav?1767876843211 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:06] "[35m[1mGET /audio/one_toned.wav?1767876846039 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:10] "[35m[1mGET /audio/half_toned.wav?1767876850171 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:12] "[35m[1mGET /audio/half_toned.wav?1767876851814 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:13] "[35m[1mGET /audio/half_toned.wav?1767876853588 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:15] "[35m[1mGET /audio/half_shubham.wav?1767876855356 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:17] "[35m[1mGET /audio/one_toned.wav?1767876856863 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:22] "[35m[1mGET /audio/one_toned.wav?1767876862006 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:23] "[35m[1mGET /audio/one_toned.wav?1767876863662 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:26] "[35m[1mGET /audio/one_shubham.wav?1767876865980 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:34] "[35m[1mGET /audio/half_shubham.wav?1767876873901 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:37] "[35m[1mGET /audio/one_toned.wav?1767876877590 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:40] "[35m[1mGET /audio/half_toned.wav?1767876879814 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:41] "[35m[1mGET /audio/half_toned.wav?1767876881737 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:43] "[35m[1mGET /audio/one_toned.wav?1767876883554 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:45] "[35m[1mGET /audio/half_shubham.wav?1767876885018 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:46] "[35m[1mGET /audio/half_shubham.wav?1767876886525 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:48] "[35m[1mGET /audio/one_shubham.wav?1767876888295 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:50] "[35m[1mGET /audio/one_toned.wav?1767876890105 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:51] "[35m[1mGET /audio/half_toned.wav?1767876891600 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:53] "[35m[1mGET /audio/half_toned.wav?1767876893113 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:55] "[35m[1mGET /audio/half_toned.wav?1767876895190 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:57] "[35m[1mGET /audio/one_toned.wav?1767876897008 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:24:58] "[35m[1mGET /audio/one_toned.wav?1767876898479 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:00] "[35m[1mGET /audio/one_toned.wav?1767876900106 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:01] "[35m[1mGET /audio/half_toned.wav?1767876901665 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:03] "[35m[1mGET /audio/half_shubham.wav?1767876903462 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:06] "[35m[1mGET /audio/half_toned.wav?1767876906431 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:08] "[35m[1mGET /audio/one_toned.wav?1767876908304 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:10] "[35m[1mGET /audio/one_toned.wav?1767876909871 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:11] "[35m[1mGET /audio/one_shubham.wav?1767876911511 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:13] "[35m[1mGET /audio/half_toned.wav?1767876913294 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:20] "[35m[1mGET /audio/one_toned.wav?1767876920712 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:22] "[35m[1mGET /audio/one_toned.wav?1767876922252 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:24] "[35m[1mGET /audio/half_toned.wav?1767876923772 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:25] "[35m[1mGET /audio/half_shubham.wav?1767876925602 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:27] "[35m[1mGET /audio/one_toned.wav?1767876927337 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:29] "[35m[1mGET /audio/half_shubham.wav?1767876929256 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:31] "[35m[1mGET /audio/one_toned.wav?1767876931084 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:36] "[35m[1mGET /audio/one_shubham.wav?1767876935989 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:38] "[35m[1mGET /audio/one_toned.wav?1767876937783 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:41] "[35m[1mGET /audio/one_toned.wav?1767876941619 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:43] "[35m[1mGET /audio/half_toned.wav?1767876943093 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:44] "[35m[1mGET /audio/half_toned.wav?1767876944751 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:48] "[35m[1mGET /audio/half_shubham.wav?1767876948522 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:50] "[35m[1mGET /audio/half_toned.wav?1767876950042 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:52] "[35m[1mGET /audio/half_toned.wav?1767876951682 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:53] "[35m[1mGET /audio/half_toned.wav?1767876953559 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:55] "[35m[1mGET /audio/one_toned.wav?1767876955050 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:56] "[35m[1mGET /audio/one_toned.wav?1767876956727 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:25:58] "[35m[1mGET /audio/half_shubham.wav?1767876958157 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:00] "[35m[1mGET /audio/one_toned.wav?1767876960711 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:04] "[35m[1mGET /audio/one_toned.wav?1767876963800 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:05] "[35m[1mGET /audio/one_shubham.wav?1767876965300 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:07] "[35m[1mGET /audio/half_toned.wav?1767876967073 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:12] "[35m[1mGET /audio/half_shubham.wav?1767876971728 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:14] "[35m[1mGET /audio/half_toned.wav?1767876973936 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:16] "[35m[1mGET /audio/one_toned.wav?1767876975761 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:17] "[35m[1mGET /audio/half_toned.wav?1767876977317 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:21] "[35m[1mGET /audio/one_toned.wav?1767876981176 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:24] "[35m[1mGET /audio/half_shubham.wav?1767876983874 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:26] "[35m[1mGET /audio/one_toned.wav?1767876985813 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:27] "[35m[1mGET /audio/one_shubham.wav?1767876987423 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:29] "[35m[1mGET /audio/half_toned.wav?1767876989287 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:31] "[35m[1mGET /audio/one_toned.wav?1767876991677 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:33] "[35m[1mGET /audio/half_toned.wav?1767876993233 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:35] "[35m[1mGET /audio/one_toned.wav?1767876995019 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:36] "[35m[1mGET /audio/half_shubham.wav?1767876996483 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:38] "[35m[1mGET /audio/half_toned.wav?1767876997968 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:39] "[35m[1mGET /audio/one_toned.wav?1767876999735 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:41] "[35m[1mGET /audio/one_toned.wav?1767877001282 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:43] "[35m[1mGET /audio/half_toned.wav?1767877002793 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:44] "[35m[1mGET /audio/half_toned.wav?1767877004619 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:46] "[35m[1mGET /audio/half_toned.wav?1767877006408 HTTP/1.1[0m" 206 -
+[INFO] Caught up to live log
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav192.168.0.17 - - [08/Jan/2026 18:26:48] "[35m[1mGET /audio/one_toned.wav?1767877008000 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:49] "[35m[1mGET /audio/one_toned.wav?1767877009502 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:52] "[35m[1mGET /audio/half_shubham.wav?1767877012484 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:26:58] "[35m[1mGET /audio/half_shubham.wav?1767877018531 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:00] "[35m[1mGET /audio/one_shubham.wav?1767877020388 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:02] "[35m[1mGET /audio/one_toned.wav?1767877022266 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:04] "[35m[1mGET /audio/half_toned.wav?1767877023868 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:05] "[35m[1mGET /audio/one_toned.wav?1767877025396 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:08] "[35m[1mGET /audio/one_toned.wav?1767877027823 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:09] "[35m[1mGET /audio/one_toned.wav?1767877029443 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:11] "[35m[1mGET /audio/half_toned.wav?1767877031592 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:16] "[35m[1mGET /audio/one_shubham.wav?1767877036408 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:18] "[35m[1mGET /audio/half_shubham.wav?1767877038173 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:19] "[35m[1mGET /audio/one_toned.wav?1767877039674 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:23] "[35m[1mGET /audio/half_toned.wav?1767877042777 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:24] "[35m[1mGET /audio/half_shubham.wav?1767877044607 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:26] "[35m[1mGET /audio/one_toned.wav?1767877046537 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:28] "[35m[1mGET /audio/one_toned.wav?1767877047999 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:29] "[35m[1mGET /audio/one_toned.wav?1767877049608 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:31] "[35m[1mGET /audio/half_toned.wav?1767877051083 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:33] "[35m[1mGET /audio/half_toned.wav?1767877052856 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:34] "[35m[1mGET /audio/one_toned.wav?1767877054360 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:36] "[35m[1mGET /audio/half_shubham.wav?1767877055998 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:37] "[35m[1mGET /audio/one_toned.wav?1767877057532 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:41] "[35m[1mGET /audio/half_toned.wav?1767877061650 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:44] "[35m[1mGET /audio/one_shubham.wav?1767877064576 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:46] "[35m[1mGET /audio/half_toned.wav?1767877066415 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:48] "[35m[1mGET /audio/half_toned.wav?1767877068338 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:50] "[35m[1mGET /audio/one_toned.wav?1767877069977 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:51] "[35m[1mGET /audio/one_toned.wav?1767877071647 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:53] "[35m[1mGET /audio/one_toned.wav?1767877073273 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:55] "[35m[1mGET /audio/one_toned.wav?1767877074768 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:56] "[35m[1mGET /audio/half_shubham.wav?1767877076382 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:58] "[35m[1mGET /audio/half_shubham.wav?1767877077916 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:27:59] "[35m[1mGET /audio/half_toned.wav?1767877079713 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:01] "[35m[1mGET /audio/one_toned.wav?1767877081223 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:03] "[35m[1mGET /audio/half_toned.wav?1767877082918 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:08] "[35m[1mGET /audio/one_shubham.wav?1767877087849 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:12] "[35m[1mGET /audio/half_toned.wav?1767877092286 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:14] "[35m[1mGET /audio/half_toned.wav?1767877094236 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:16] "[35m[1mGET /audio/half_shubham.wav?1767877095825 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:17] "[35m[1mGET /audio/one_toned.wav?1767877097577 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:19] "[35m[1mGET /audio/one_toned.wav?1767877099109 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:20] "[35m[1mGET /audio/one_toned.wav?1767877100649 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:22] "[35m[1mGET /audio/one_toned.wav?1767877102166 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:26] "[35m[1mGET /audio/one_toned.wav?1767877106046 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:27] "[35m[1mGET /audio/half_toned.wav?1767877107578 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:29] "[35m[1mGET /audio/one_toned.wav?1767877109079 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:30] "[35m[1mGET /audio/half_toned.wav?1767877110666 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:32] "[35m[1mGET /audio/one_toned.wav?1767877112162 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:34] "[35m[1mGET /audio/one_shubham.wav?1767877113992 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:36] "[35m[1mGET /audio/one_toned.wav?1767877115869 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:37] "[35m[1mGET /audio/half_toned.wav?1767877117331 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:39] "[35m[1mGET /audio/one_toned.wav?1767877119128 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:40] "[35m[1mGET /audio/one_toned.wav?1767877120616 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:42] "[35m[1mGET /audio/half_shubham.wav?1767877122114 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:44] "[35m[1mGET /audio/half_shubham.wav?1767877124072 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:46] "[35m[1mGET /audio/half_shubham.wav?1767877125840 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:47] "[35m[1mGET /audio/one_toned.wav?1767877127615 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:49] "[35m[1mGET /audio/half_toned.wav?1767877129233 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:51] "[35m[1mGET /audio/half_toned.wav?1767877131185 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:53] "[35m[1mGET /audio/half_toned.wav?1767877133073 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:55] "[35m[1mGET /audio/one_toned.wav?1767877134870 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:56] "[35m[1mGET /audio/one_shubham.wav?1767877136367 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:28:58] "[35m[1mGET /audio/one_toned.wav?1767877138308 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:05] "[35m[1mGET /audio/one_toned.wav?1767877144883 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:08] "[35m[1mGET /audio/half_toned.wav?1767877148590 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:10] "[35m[1mGET /audio/one_toned.wav?1767877150417 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:12] "[35m[1mGET /audio/half_shubham.wav?1767877151854 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:13] "[35m[1mGET /audio/one_toned.wav?1767877153734 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:15] "[35m[1mGET /audio/one_toned.wav?1767877155329 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:17] "[35m[1mGET /audio/one_toned.wav?1767877156836 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:18] "[35m[1mGET /audio/half_toned.wav?1767877158313 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:20] "[35m[1mGET /audio/half_toned.wav?1767877160119 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:23] "[35m[1mGET /audio/one_toned.wav?1767877163578 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:25] "[35m[1mGET /audio/one_shubham.wav?1767877165140 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:29] "[35m[1mGET /audio/half_shubham.wav?1767877169244 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:31] "[35m[1mGET /audio/half_toned.wav?1767877170908 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:33] "[35m[1mGET /audio/one_toned.wav?1767877173476 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:35] "[35m[1mGET /audio/half_shubham.wav?1767877175085 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:37] "[35m[1mGET /audio/one_toned.wav?1767877176866 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:41] "[35m[1mGET /audio/one_toned.wav?1767877180918 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:46] "[35m[1mGET /audio/one_shubham.wav?1767877186159 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:48] "[35m[1mGET /audio/one_toned.wav?1767877187978 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:52] "[35m[1mGET /audio/one_toned.wav?1767877191755 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:53] "[35m[1mGET /audio/half_toned.wav?1767877193280 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:56] "[35m[1mGET /audio/one_toned.wav?1767877195887 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:57] "[35m[1mGET /audio/one_toned.wav?1767877197522 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:29:59] "[35m[1mGET /audio/one_toned.wav?1767877199072 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:00] "[35m[1mGET /audio/half_toned.wav?1767877200689 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:04] "[35m[1mGET /audio/half_shubham.wav?1767877204593 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:06] "[35m[1mGET /audio/one_toned.wav?1767877206398 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:08] "[35m[1mGET /audio/one_shubham.wav?1767877207903 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:10] "[35m[1mGET /audio/one_toned.wav?1767877209967 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:11] "[35m[1mGET /audio/half_shubham.wav?1767877211452 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:13] "[35m[1mGET /audio/half_shubham.wav?1767877213235 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:15] "[35m[1mGET /audio/one_toned.wav?1767877215036 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:18] "[35m[1mGET /audio/one_toned.wav?1767877218509 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:23] "[35m[1mGET /audio/half_toned.wav?1767877223084 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:25] "[35m[1mGET /audio/one_toned.wav?1767877224858 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:26] "[35m[1mGET /audio/one_toned.wav?1767877226365 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:29] "[35m[1mGET /audio/one_toned.wav?1767877229077 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:31] "[35m[1mGET /audio/one_shubham.wav?1767877230798 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:32] "[35m[1mGET /audio/one_toned.wav?1767877232688 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:34] "[35m[1mGET /audio/one_toned.wav?1767877234296 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:35] "[35m[1mGET /audio/one_toned.wav?1767877235724 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:39] "[35m[1mGET /audio/half_shubham.wav?1767877238871 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:43] "[35m[1mGET /audio/half_shubham.wav?1767877243390 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:45] "[35m[1mGET /audio/half_shubham.wav?1767877245214 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:47] "[35m[1mGET /audio/one_toned.wav?1767877247003 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:48] "[35m[1mGET /audio/one_toned.wav?1767877248466 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:50] "[35m[1mGET /audio/one_toned.wav?1767877250000 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:54] "[35m[1mGET /audio/one_toned.wav?1767877254712 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:30:56] "[35m[1mGET /audio/one_toned.wav?1767877256230 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:02] "[35m[1mGET /audio/one_shubham.wav?1767877262579 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:12] "[35m[1mGET /audio/one_toned.wav?1767877272394 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:14] "[35m[1mGET /audio/one_toned.wav?1767877273875 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:17] "[35m[1mGET /audio/half_shubham.wav?1767877277289 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:19] "[35m[1mGET /audio/one_toned.wav?1767877278781 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:20] "[35m[1mGET /audio/one_toned.wav?1767877280416 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:22] "[35m[1mGET /audio/one_toned.wav?1767877281977 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:23] "[35m[1mGET /audio/one_toned.wav?1767877283511 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:29] "[35m[1mGET /audio/one_shubham.wav?1767877289396 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:31] "[35m[1mGET /audio/half_shubham.wav?1767877291204 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:34] "[35m[1mGET /audio/one_toned.wav?1767877293930 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:36] "[35m[1mGET /audio/one_toned.wav?1767877296004 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:37] "[35m[1mGET /audio/half_shubham.wav?1767877297511 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:39] "[35m[1mGET /audio/one_toned.wav?1767877299274 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:43] "[35m[1mGET /audio/one_toned.wav?1767877303020 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:44] "[35m[1mGET /audio/one_toned.wav?1767877304604 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:46] "[35m[1mGET /audio/one_shubham.wav?1767877306143 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:50] "[35m[1mGET /audio/one_toned.wav?1767877309876 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:31:51] "[35m[1mGET /audio/one_toned.wav?1767877311342 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:01] "[35m[1mGET /audio/half_shubham.wav?1767877321387 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:03] "[35m[1mGET /audio/half_shubham.wav?1767877322910 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:04] "[35m[1mGET /audio/half_shubham.wav?1767877324723 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:06] "[35m[1mGET /audio/one_toned.wav?1767877326511 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:11] "[35m[1mGET /audio/one_toned.wav?1767877330802 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:12] "[35m[1mGET /audio/one_toned.wav?1767877332270 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:14] "[35m[1mGET /audio/one_toned.wav?1767877333843 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:15] "[35m[1mGET /audio/one_toned.wav?1767877335312 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:19] "[35m[1mGET /audio/one_toned.wav?1767877339395 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:23] "[35m[1mGET /audio/one_toned.wav?1767877343009 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:26] "[35m[1mGET /audio/half_shubham.wav?1767877346322 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:28] "[35m[1mGET /audio/one_toned.wav?1767877348172 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:29] "[35m[1mGET /audio/one_toned.wav?1767877349617 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:31] "[35m[1mGET /audio/one_toned.wav?1767877351210 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:33] "[35m[1mGET /audio/half_shubham.wav?1767877353556 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:35] "[35m[1mGET /audio/half_shubham.wav?1767877355370 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:38] "[35m[1mGET /audio/one_toned.wav?1767877358745 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:45] "[35m[1mGET /audio/one_toned.wav?1767877365722 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:47] "[35m[1mGET /audio/one_shubham.wav?1767877367355 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:49] "[35m[1mGET /audio/one_toned.wav?1767877369168 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:54] "[35m[1mGET /audio/one_toned.wav?1767877374144 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:57] "[35m[1mGET /audio/one_toned.wav?1767877377504 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:32:59] "[35m[1mGET /audio/one_toned.wav?1767877379036 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:03] "[35m[1mGET /audio/half_shubham.wav?1767877383096 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:05] "[35m[1mGET /audio/one_shubham.wav?1767877384869 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:06] "[35m[1mGET /audio/one_toned.wav?1767877386359 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:13] "[35m[1mGET /audio/one_toned.wav?1767877393636 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:15] "[35m[1mGET /audio/half_shubham.wav?1767877395153 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:19] "[35m[1mGET /audio/one_toned.wav?1767877398931 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:23] "[35m[1mGET /audio/half_shubham.wav?1767877402814 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:24] "[35m[1mGET /audio/one_toned.wav?1767877404641 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:26] "[35m[1mGET /audio/one_toned.wav?1767877406123 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:31] "[35m[1mGET /audio/one_toned.wav?1767877411580 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:33] "[35m[1mGET /audio/one_toned.wav?1767877413214 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:40] "[35m[1mGET /audio/one_toned.wav?1767877420347 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:42] "[35m[1mGET /audio/one_shubham.wav?1767877421818 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:45] "[35m[1mGET /audio/half_shubham.wav?1767877425470 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:47] "[35m[1mGET /audio/one_toned.wav?1767877427311 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:49] "[35m[1mGET /audio/one_toned.wav?1767877428784 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:50] "[35m[1mGET /audio/one_toned.wav?1767877430564 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:52] "[35m[1mGET /audio/one_toned.wav?1767877432062 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:53] "[35m[1mGET /audio/half_shubham.wav?1767877433577 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:55] "[35m[1mGET /audio/half_shubham.wav?1767877435098 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:33:58] "[35m[1mGET /audio/one_toned.wav?1767877438682 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:02] "[35m[1mGET /audio/one_shubham.wav?1767877442429 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:04] "[35m[1mGET /audio/one_toned.wav?1767877444010 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:14] "[35m[1mGET /audio/one_toned.wav?1767877454052 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:15] "[35m[1mGET /audio/one_toned.wav?1767877455689 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:17] "[35m[1mGET /audio/one_shubham.wav?1767877457516 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:19] "[35m[1mGET /audio/one_toned.wav?1767877459209 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:20] "[35m[1mGET /audio/one_toned.wav?1767877460662 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:22] "[35m[1mGET /audio/one_shubham.wav?1767877462474 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:25] "[35m[1mGET /audio/one_toned.wav?1767877465054 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:26] "[35m[1mGET /audio/one_toned.wav?1767877466750 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:31] "[35m[1mGET /audio/one_toned.wav?1767877471087 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:36] "[35m[1mGET /audio/half_shubham.wav?1767877476710 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:41] "[35m[1mGET /audio/half_shubham.wav?1767877480942 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:43] "[35m[1mGET /audio/half_shubham.wav?1767877482823 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:44] "[35m[1mGET /audio/one_toned.wav?1767877484700 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:48] "[35m[1mGET /audio/one_toned.wav?1767877488420 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:50] "[35m[1mGET /audio/one_toned.wav?1767877489890 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:51] "[35m[1mGET /audio/one_toned.wav?1767877491468 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:54] "[35m[1mGET /audio/one_toned.wav?1767877494649 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:56] "[35m[1mGET /audio/one_toned.wav?1767877496206 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:34:57] "[35m[1mGET /audio/one_shubham.wav?1767877497625 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:00] "[35m[1mGET /audio/one_toned.wav?1767877500643 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:02] "[35m[1mGET /audio/one_toned.wav?1767877502275 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:06] "[35m[1mGET /audio/half_shubham.wav?1767877505976 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:10] "[35m[1mGET /audio/one_toned.wav?1767877509968 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:11] "[35m[1mGET /audio/half_shubham.wav?1767877511616 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:13] "[35m[1mGET /audio/one_toned.wav?1767877513394 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:17] "[35m[1mGET /audio/half_shubham.wav?1767877516965 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:19] "[35m[1mGET /audio/one_toned.wav?1767877519593 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:21] "[35m[1mGET /audio/one_toned.wav?1767877521132 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:26] "[35m[1mGET /audio/one_toned.wav?1767877525779 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:27] "[35m[1mGET /audio/one_toned.wav?1767877527318 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:29] "[35m[1mGET /audio/one_shubham.wav?1767877528801 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:33] "[35m[1mGET /audio/one_toned.wav?1767877533106 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:34] "[35m[1mGET /audio/one_toned.wav?1767877534571 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:36] "[35m[1mGET /audio/one_toned.wav?1767877536236 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:40] "[35m[1mGET /audio/one_toned.wav?1767877539900 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:41] "[35m[1mGET /audio/half_shubham.wav?1767877541511 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:43] "[35m[1mGET /audio/one_toned.wav?1767877543309 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:45] "[35m[1mGET /audio/one_toned.wav?1767877544782 HTTP/1.1[0m" 206 -
+
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: one_toned.wav
+[DEBUG] Audio request: half_shubham.wav192.168.0.17 - - [08/Jan/2026 18:35:46] "[35m[1mGET /audio/half_shubham.wav?1767877546625 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:48] "[35m[1mGET /audio/one_toned.wav?1767877548453 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:50] "[35m[1mGET /audio/one_shubham.wav?1767877550551 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:58] "[35m[1mGET /audio/one_toned.wav?1767877557791 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:35:59] "[35m[1mGET /audio/one_toned.wav?1767877559624 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:07] "[35m[1mGET /audio/one_toned.wav?1767877567104 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:08] "[35m[1mGET /audio/one_toned.wav?1767877568597 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:10] "[35m[1mGET /audio/half_shubham.wav?1767877570029 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:12] "[35m[1mGET /audio/half_shubham.wav?1767877572337 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:14] "[35m[1mGET /audio/one_toned.wav?1767877574220 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:23] "[35m[1mGET /audio/one_shubham.wav?1767877583519 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:25] "[35m[1mGET /audio/one_toned.wav?1767877585479 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:27] "[35m[1mGET /audio/one_toned.wav?1767877587040 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:28] "[35m[1mGET /audio/one_toned.wav?1767877588612 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:30] "[35m[1mGET /audio/one_toned.wav?1767877590562 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:32] "[35m[1mGET /audio/one_toned.wav?1767877592016 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:33] "[35m[1mGET /audio/half_shubham.wav?1767877593514 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:35] "[35m[1mGET /audio/one_toned.wav?1767877595286 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:37] "[35m[1mGET /audio/half_shubham.wav?1767877596811 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:39] "[35m[1mGET /audio/one_toned.wav?1767877599401 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:43] "[35m[1mGET /audio/one_toned.wav?1767877602926 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:50] "[35m[1mGET /audio/one_shubham.wav?1767877610258 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:52] "[35m[1mGET /audio/one_toned.wav?1767877611746 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:53] "[35m[1mGET /audio/one_toned.wav?1767877613379 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:55] "[35m[1mGET /audio/one_toned.wav?1767877615293 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:57] "[35m[1mGET /audio/one_toned.wav?1767877616830 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:36:59] "[35m[1mGET /audio/one_toned.wav?1767877619530 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:01] "[35m[1mGET /audio/half_shubham.wav?1767877621101 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:02] "[35m[1mGET /audio/half_shubham.wav?1767877622733 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:04] "[35m[1mGET /audio/one_toned.wav?1767877624674 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:06] "[35m[1mGET /audio/one_shubham.wav?1767877626128 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:07] "[35m[1mGET /audio/one_toned.wav?1767877627571 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:09] "[35m[1mGET /audio/one_toned.wav?1767877629086 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:14] "[35m[1mGET /audio/one_toned.wav?1767877634209 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:17] "[35m[1mGET /audio/half_shubham.wav?1767877636846 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:21] "[35m[1mGET /audio/one_toned.wav?1767877641460 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:23] "[35m[1mGET /audio/one_toned.wav?1767877643539 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:25] "[35m[1mGET /audio/one_toned.wav?1767877645062 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:29] "[35m[1mGET /audio/one_toned.wav?1767877649089 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:31] "[35m[1mGET /audio/half_shubham.wav?1767877651134 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:32] "[35m[1mGET /audio/one_toned.wav?1767877652654 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:34] "[35m[1mGET /audio/one_shubham.wav?1767877654152 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:37] "[35m[1mGET /audio/one_toned.wav?1767877657302 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:41] "[35m[1mGET /audio/one_toned.wav?1767877660990 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:42] "[35m[1mGET /audio/half_shubham.wav?1767877662608 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:44] "[35m[1mGET /audio/one_toned.wav?1767877664466 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:48] "[35m[1mGET /audio/half_shubham.wav?1767877668342 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:51] "[35m[1mGET /audio/one_toned.wav?1767877671120 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:37:56] "[35m[1mGET /audio/one_toned.wav?1767877676563 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:00] "[35m[1mGET /audio/one_toned.wav?1767877679962 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:01] "[35m[1mGET /audio/one_shubham.wav?1767877681658 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:03] "[35m[1mGET /audio/one_toned.wav?1767877683329 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:09] "[35m[1mGET /audio/one_toned.wav?1767877689519 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:11] "[35m[1mGET /audio/one_toned.wav?1767877691098 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:13] "[35m[1mGET /audio/one_toned.wav?1767877693443 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:16] "[35m[1mGET /audio/one_toned.wav?1767877696461 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:18] "[35m[1mGET /audio/half_shubham.wav?1767877698080 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:20] "[35m[1mGET /audio/half_shubham.wav?1767877699938 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:22] "[35m[1mGET /audio/one_toned.wav?1767877701846 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:28] "[35m[1mGET /audio/one_toned.wav?1767877708194 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:30] "[35m[1mGET /audio/one_toned.wav?1767877709779 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:31] "[35m[1mGET /audio/half_shubham.wav?1767877711252 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:35] "[35m[1mGET /audio/one_shubham.wav?1767877714822 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:39] "[35m[1mGET /audio/one_toned.wav?1767877718920 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:40] "[35m[1mGET /audio/one_toned.wav?1767877720453 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:43] "[35m[1mGET /audio/one_toned.wav?1767877723217 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:46] "[35m[1mGET /audio/one_toned.wav?1767877726202 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:48] "[35m[1mGET /audio/half_shubham.wav?1767877727900 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:49] "[35m[1mGET /audio/one_toned.wav?1767877729519 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:52] "[35m[1mGET /audio/one_toned.wav?1767877732527 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:38:56] "[35m[1mGET /audio/half_toned.wav?1767877736102 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:01] "[35m[1mGET /audio/one_shubham.wav?1767877740995 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:05] "[35m[1mGET /audio/one_toned.wav?1767877745714 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:07] "[35m[1mGET /audio/one_toned.wav?1767877747398 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:09] "[35m[1mGET /audio/one_toned.wav?1767877748859 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:13] "[35m[1mGET /audio/half_shubham.wav?1767877752866 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:25] "[35m[1mGET /audio/one_toned.wav?1767877764713 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:26] "[35m[1mGET /audio/one_shubham.wav?1767877766647 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:29] "[35m[1mGET /audio/one_toned.wav?1767877768949 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:30] "[35m[1mGET /audio/one_toned.wav?1767877770450 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:32] "[35m[1mGET /audio/one_toned.wav?1767877771915 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:33] "[35m[1mGET /audio/half_shubham.wav?1767877773673 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:35] "[35m[1mGET /audio/one_toned.wav?1767877775466 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:37] "[35m[1mGET /audio/one_shubham.wav?1767877776977 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:40] "[35m[1mGET /audio/one_toned.wav?1767877780484 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:42] "[35m[1mGET /audio/one_toned.wav?1767877782092 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:44] "[35m[1mGET /audio/one_toned.wav?1767877783738 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:45] "[35m[1mGET /audio/half_shubham.wav?1767877785299 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:47] "[35m[1mGET /audio/one_toned.wav?1767877787055 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:55] "[35m[1mGET /audio/half_shubham.wav?1767877795313 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:57] "[35m[1mGET /audio/one_toned.wav?1767877797111 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:39:58] "[35m[1mGET /audio/one_shubham.wav?1767877798685 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:40:00] "[35m[1mGET /audio/one_toned.wav?1767877800493 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:40:02] "[35m[1mGET /audio/one_toned.wav?1767877802021 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:40:03] "[35m[1mGET /audio/one_toned.wav?1767877803516 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:40:05] "[35m[1mGET /audio/half_shubham.wav?1767877805523 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:40:08] "[35m[1mGET /audio/one_toned.wav?1767877807935 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:40:09] "[35m[1mGET /audio/one_toned.wav?1767877809405 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:40:11] "[35m[1mGET /audio/one_toned.wav?1767877810921 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:40:12] "[35m[1mGET /audio/one_toned.wav?1767877812511 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:40:19] "[35m[1mGET /audio/one_toned.wav?1767877819170 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:40:22] "[35m[1mGET /audio/half_shubham.wav?1767877821826 HTTP/1.1[0m" 206 -
+192.168.0.17 - - [08/Jan/2026 18:40:28] "[35m[1mGET /audio/one_toned.wav?1767877828161 HTTP/1.1[0m" 206 -

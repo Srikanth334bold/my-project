@@ -1,0 +1,13 @@
+[INFO] Monitoring conveyor 1
+[INFO] Log file: /home/bamul-bk/project/Bamul_Final/camera_1.log
+[INFO] State loaded | inode=18121198 offset=2928419
+[INFO] Pre-generating audio files using pyttsx3...
+[INFO] Audio warmup complete
+[INFO] Caught up to live log
+ * Serving Flask app 'logger1'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.115:5001
+[33mPress CTRL+C to quit[0m

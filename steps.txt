@@ -1,0 +1,4 @@
+#python3 -m venv venv
+#install requirements
+#source venv
+#run python program - python3 logger.py  --conveyor 2

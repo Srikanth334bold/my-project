@@ -1,0 +1,19 @@
+[INFO] Monitoring conveyor 4
+[INFO] Log file: /home/bamul-bk/project/Bamul_Final/camera_4.log
+[INFO] State loaded | inode=18091567 offset=1399987
+[INFO] Pre-generating audio files using pyttsx3...
+[INFO] Audio warmup complete
+[INFO] Caught up to live log
+ * Serving Flask app 'logger1'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://192.168.0.115:5004
+[33mPress CTRL+C to quit[0m
+192.168.0.115 - - [08/Jan/2026 18:19:21] "GET /stream HTTP/1.1" 200 -
+192.168.0.115 - - [08/Jan/2026 18:19:22] "[33mGET /audio/one_nsp.mp3?1767876561830 HTTP/1.1[0m" 404 -
+192.168.0.115 - - [08/Jan/2026 18:19:23] "[33mGET /audio/two_hundred_ml_nsp.mp3?1767876562680 HTTP/1.1[0m" 404 -
+192.168.0.115 - - [08/Jan/2026 18:19:27] "[33mGET /audio/one_nsp.mp3?1767876566542 HTTP/1.1[0m" 404 -
+192.168.0.115 - - [08/Jan/2026 18:19:32] "[33mGET /audio/half_nsp.mp3?1767876569535 HTTP/1.1[0m" 404 -
+192.168.0.115 - - [08/Jan/2026 18:19:38] "[33mGET /audio/six_toned.mp3?1767876572570 HTTP/1.1[0m" 404 -
