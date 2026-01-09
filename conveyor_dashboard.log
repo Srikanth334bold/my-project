@@ -1,0 +1,1442 @@
+2026-01-06 13:59:15,477 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 2, Port: 5002
+2026-01-06 13:59:15,479 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 13:59:15,479 - __main__ - INFO - State ignored (new day)
+2026-01-06 13:59:15,480 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_2.log
+2026-01-06 13:59:15,481 - __main__ - INFO - Background threads started
+2026-01-06 13:59:15,481 - __main__ - INFO - Dashboard available at: http://localhost:5002
+2026-01-06 13:59:15,484 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.0.115:5002
+2026-01-06 13:59:15,484 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 13:59:45,492 - __main__ - INFO - Event processed: Tray 126661, one, NSP - Count: 1
+2026-01-06 13:59:45,541 - __main__ - INFO - Created Kannada audio: one ಎನ್ಎಸ್ಪಿ -> one_nsp.wav
+2026-01-06 13:59:55,997 - __main__ - INFO - Event processed: Tray 126662, half, NSP - Count: 1
+2026-01-06 13:59:56,014 - __main__ - INFO - Created Kannada audio: ಅರ್ಧ ಎನ್ಎಸ್ಪಿ -> half_nsp.wav
+2026-01-06 13:59:56,999 - __main__ - INFO - Event processed: Tray 126664, empty, NONE - Count: 1
+2026-01-06 13:59:57,017 - __main__ - INFO - Created Kannada audio: empty NONE -> empty_none.wav
+2026-01-06 13:59:59,001 - __main__ - INFO - Event processed: Tray 126665, one, NSP - Count: 2
+2026-01-06 14:00:16,401 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 4, Port: 5004
+2026-01-06 14:00:16,403 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 14:00:16,404 - __main__ - INFO - State ignored (new day)
+2026-01-06 14:00:16,404 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_4.log
+2026-01-06 14:00:16,405 - __main__ - INFO - Background threads started
+2026-01-06 14:00:16,405 - __main__ - INFO - Dashboard available at: http://localhost:5004
+2026-01-06 14:00:16,408 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://192.168.0.115:5004
+2026-01-06 14:00:16,408 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 14:00:16,450 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 2, Port: 5002
+2026-01-06 14:00:16,455 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 14:00:16,455 - __main__ - INFO - State loaded | inode=18121195 offset=21429679
+2026-01-06 14:00:16,456 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_2.log
+2026-01-06 14:00:16,456 - __main__ - INFO - Background threads started
+2026-01-06 14:00:16,457 - __main__ - INFO - Caught up to live log
+2026-01-06 14:00:16,457 - __main__ - INFO - Dashboard available at: http://localhost:5002
+2026-01-06 14:00:16,460 - __main__ - INFO - Application shutting down
+2026-01-06 14:00:17,573 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 14:00:17,581 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 14:00:17] "GET / HTTP/1.1" 200 -
+2026-01-06 14:00:17,636 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 14:00:17] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 14:00:17,637 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 14:00:17] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 14:00:17,758 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 14:00:17] "GET /stream HTTP/1.1" 200 -
+2026-01-06 14:00:18,256 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 14:00:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-06 14:00:25,012 - __main__ - INFO - Event processed: Tray 126666, one, NSP - Count: 3
+2026-01-06 14:00:26,514 - __main__ - INFO - Event processed: Tray 126667, one, NSP - Count: 4
+2026-01-06 14:00:35,518 - __main__ - INFO - Event processed: Tray 126668, half, NSP - Count: 2
+2026-01-06 14:00:42,523 - __main__ - INFO - Event processed: Tray 126669, one, NSP - Count: 5
+2026-01-06 14:00:48,527 - __main__ - INFO - Event processed: Tray 126670, one, NSP - Count: 6
+2026-01-06 14:00:50,529 - __main__ - INFO - Event processed: Tray 126671, one, NSP - Count: 7
+2026-01-06 14:01:01,533 - __main__ - INFO - Event processed: Tray 126672, half, NSP - Count: 3
+2026-01-06 14:01:03,392 - werkzeug - ERROR - 192.168.0.114 - - [06/Jan/2026 14:01:03] code 400, message Bad request version ('Ñ¼Rå\x8axÐþ\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+2026-01-06 14:01:03,392 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:01:03] "[31m[1m\x16\x03\x01\x07O\x01\x00\x07K\x03\x03Z\x17V<r\x00\x8dø2\x83MO\x0dQ®÷ó0}8Ò¦ª}²ë\x96\x93¥îX. ´Ë!]ÏÏ\\T\x86\x09V¥²\x03±¨\x9bËH\x80Rø¢\x1fÑ¼Rå\x8axÐþ\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" 400 -
+2026-01-06 14:01:03,401 - werkzeug - ERROR - 192.168.0.114 - - [06/Jan/2026 14:01:03] code 400, message Bad request version ('Ý\x16ý\x90<Îìã¸dk:\x91VDõ\x07]aÓ©Ü5¢¨\x7fU\x9d\x07\x15}\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+2026-01-06 14:01:03,402 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:01:03] "[31m[1m\x16\x03\x01\x02~\x01\x00\x02z\x03\x03F=9ç\x93¬\x92\x1e÷Õ¬\x07ÏWÅî±\x12V\x04rÖ3Ym\x06×ÖHj\x0eh  Ý\x16ý\x90<Îìã¸dk:\x91VDõ\x07]aÓ©Ü5¢¨\x7fU\x9d\x07\x15}\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" 400 -
+2026-01-06 14:01:12,989 - werkzeug - ERROR - 192.168.0.114 - - [06/Jan/2026 14:01:12] code 400, message Bad request version ('§²{òih°L|ôf\x04\x14ìADCþ%\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+2026-01-06 14:01:12,990 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:01:12] "[31m[1m\x16\x03\x01\x07O\x01\x00\x07K\x03\x03P"®\x94\x16ñ\x04<«\x12èaÃ\x89\x0bÉwwÿH\x9c0xr\x9e\x10ØU\x03ÿ»' ªÌz\x0e$\x15\x19U\x00\x12ú[\x1e§²{òih°L|ôf\x04\x14ìADCþ%\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" 400 -
+2026-01-06 14:01:13,007 - werkzeug - ERROR - 192.168.0.114 - - [06/Jan/2026 14:01:13] code 400, message Bad request version ('y:\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+2026-01-06 14:01:13,007 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:01:13] "[31m[1m\x16\x03\x01\x02~\x01\x00\x02z\x03\x03ÐÁ»¸ð"VWÊ\x9fÌ\x88\x8a[P¿\x85Í¢ì{Ë Y\x0e»\x12vP\x12YÁ *ë¦^NpÆ\x1dç\x86RÚd¿\x0fÎS Â®)ô\x14m{6H¾\x0e y:\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" 400 -
+2026-01-06 14:01:15,317 - werkzeug - ERROR - 192.168.0.114 - - [06/Jan/2026 14:01:15] code 400, message Bad request version ('Ñ2qkx¿Î\x9cÌ\x8an<ûXn\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+2026-01-06 14:01:15,318 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:01:15] "[31m[1m\x16\x03\x01\x07O\x01\x00\x07K\x03\x03ÉÆï\x09\x9aà@\x09C9zS©\x9e×EÐ±a?ú\x0dG\x0fÎ0¾äÎ¿]\x16 #éØá{[\x9b¤ç \x9aí\x964\x0bP Ñ2qkx¿Î\x9cÌ\x8an<ûXn\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" 400 -
+2026-01-06 14:01:15,334 - werkzeug - ERROR - 192.168.0.114 - - [06/Jan/2026 14:01:15] code 400, message Bad request version ('ü`\x98\x8bõB')
+2026-01-06 14:01:15,334 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:01:15] "[31m[1m\x16\x03\x01\x02~\x01\x00\x02z\x03\x03­\x07^oiAwd8ójMÈ\x9b±H\x1d\x01m|»}E6îÍZ\x1a8®\x94\x12 \x07\x0elÛD\x85ü`\x98\x8bõB[0m" 400 -
+2026-01-06 14:01:15,976 - werkzeug - ERROR - 192.168.0.114 - - [06/Jan/2026 14:01:15] code 400, message Bad request version ('\x832ÝÔ²\x088ÓÛúl\x06¥+2!:w\x08O[Ó6»æ\x15¡E\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+2026-01-06 14:01:15,977 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:01:15] "[31m[1m\x16\x03\x01\x07O\x01\x00\x07K\x03\x03\x1b½S\x00þ¯«÷ÞV0\x9b\x08\x1fr\x9a\x9f\x86\x07ï\x19=\x91G\x0cxc\x85+/\x8c¤ u2\x85\x85\x832ÝÔ²\x088ÓÛúl\x06¥+2!:w\x08O[Ó6»æ\x15¡E\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" 400 -
+2026-01-06 14:01:15,993 - werkzeug - ERROR - 192.168.0.114 - - [06/Jan/2026 14:01:15] code 400, message Bad request version ('Q\x93×\x9e-\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+2026-01-06 14:01:15,993 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:01:15] "[31m[1m\x16\x03\x01\x02~\x01\x00\x02z\x03\x03\x09fh \x8a\x8a\x14µå\x7fv3\x0dB¸\x9fM\x05å\x9dOÜ,\x8cw)ÔEBDÇ\x8f cÉ1QÛey.\x13\x92\x08;H\x8aBá.3\x18µ\x04à\x0c\x98\x0f8\x0cQ\x93×\x9e-\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" 400 -
+2026-01-06 14:01:16,190 - werkzeug - ERROR - 192.168.0.114 - - [06/Jan/2026 14:01:16] code 400, message Bad request version ('Q*Ê\x90û/ñA¸ÒN½¿\x0eV\x88¬\x01§¡\x05\x16ÈÍ\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+2026-01-06 14:01:16,190 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:01:16] "[31m[1m\x16\x03\x01\x07O\x01\x00\x07K\x03\x03t\x97\x9a#\x12vc\x122Ù Æk4ÂPw\x1a|o\x02OH2$U¦úd\x11²\x05 Îeÿ"4ª\x0d\x1fQ*Ê\x90û/ñA¸ÒN½¿\x0eV\x88¬\x01§¡\x05\x16ÈÍ\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" 400 -
+2026-01-06 14:01:16,193 - werkzeug - ERROR - 192.168.0.114 - - [06/Jan/2026 14:01:16] code 400, message Bad request version ('\x82í´ì\x8f\x86¦ÈYÆt\x18pLÐõz\x0e¥\x02µÍ\x14Ò©\x16[')
+2026-01-06 14:01:16,194 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:01:16] "[31m[1m\x16\x03\x01\x02~\x01\x00\x02z\x03\x03(kÇ8£÷ "\x91m®¤XÜ\x84%\x85\x94\x97]³\x18G¾×mE¯g\x04¶\x1d \x82í´ì\x8f\x86¦ÈYÆt\x18pLÐõz\x0e¥\x02µÍ\x14Ò©\x16[[0m" 400 -
+2026-01-06 14:01:16,387 - werkzeug - ERROR - 192.168.0.114 - - [06/Jan/2026 14:01:16] code 400, message Bad request version ('#º"\x06<\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+2026-01-06 14:01:16,387 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:01:16] "[31m[1m\x16\x03\x01\x07O\x01\x00\x07K\x03\x03\x82·íåë\x09\x0cc\\lÒL Ê[Rf\x12\x17Ãç/ó\x85é\x1cß\x1a\x97hä6 Ü\x93\x80ePYeÈ$\x90b®Î\x98óE«½Ô\x97~­ %\x0e*\x09#º"\x06<\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" 400 -
+2026-01-06 14:01:16,396 - werkzeug - ERROR - 192.168.0.114 - - [06/Jan/2026 14:01:16] code 400, message Bad request version ('\x94«2þûv\x93V\\\x9bC\x96±^\x86Oõ¿^|¦Ê1\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+2026-01-06 14:01:16,397 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:01:16] "[31m[1m\x16\x03\x01\x02~\x01\x00\x02z\x03\x03\x1a\x8e­'\x8d$±Ô\x10x\x17\x87Ìý{\x1dÃ\x06?¨S\x1b­(É¦Ê\x9f\x1e*$g t\x02¯Öc\x878\x0c\x1c\x94«2þûv\x93V\\\x9bC\x96±^\x86Oõ¿^|¦Ê1\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" 400 -
+2026-01-06 14:01:17,038 - __main__ - INFO - Event processed: Tray 126673, one, NSP - Count: 8
+2026-01-06 14:01:21,540 - __main__ - INFO - Event processed: Tray 126674, one, NSP - Count: 9
+2026-01-06 14:01:30,043 - __main__ - INFO - Event processed: Tray 126675, half, NSP - Count: 4
+2026-01-06 14:01:31,045 - __main__ - INFO - Event processed: Tray 126676, half, NSP - Count: 5
+2026-01-06 14:01:43,049 - __main__ - INFO - Event processed: Tray 126677, one, NSP - Count: 10
+2026-01-06 14:01:45,051 - __main__ - INFO - Event processed: Tray 126678, one, NSP - Count: 11
+2026-01-06 14:02:23,518 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 2, Port: 5002
+2026-01-06 14:02:23,519 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 4, Port: 5004
+2026-01-06 14:02:23,521 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 14:02:23,522 - __main__ - INFO - State loaded | inode=18121195 offset=21432491
+2026-01-06 14:02:23,522 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_2.log
+2026-01-06 14:02:23,523 - __main__ - INFO - Background threads started
+2026-01-06 14:02:23,523 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 14:02:23,523 - __main__ - INFO - Dashboard available at: http://localhost:5002
+2026-01-06 14:02:23,523 - __main__ - INFO - State ignored (new day)
+2026-01-06 14:02:23,523 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_4.log
+2026-01-06 14:02:23,524 - __main__ - INFO - Background threads started
+2026-01-06 14:02:23,524 - __main__ - INFO - Dashboard available at: http://localhost:5004
+2026-01-06 14:02:23,528 - __main__ - INFO - Caught up to live log
+2026-01-06 14:02:23,529 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.0.115:5002
+2026-01-06 14:02:23,529 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 14:02:23,530 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://192.168.0.115:5004
+2026-01-06 14:02:23,530 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 14:02:25,030 - __main__ - INFO - Event processed: Tray 126684, one, NSP - Count: 15
+2026-01-06 14:02:26,078 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 14:02:26] "GET /stream HTTP/1.1" 200 -
+2026-01-06 14:02:29,032 - __main__ - INFO - Event processed: Tray 126685, half, NSP - Count: 8
+2026-01-06 14:02:30,534 - __main__ - INFO - Event processed: Tray 126686, half, NSP - Count: 9
+2026-01-06 14:02:40,538 - __main__ - INFO - Event processed: Tray 126687, one, NSP - Count: 16
+2026-01-06 14:02:41,539 - __main__ - INFO - Event processed: Tray 126688, half, NSP - Count: 10
+2026-01-06 14:02:45,040 - __main__ - INFO - Event processed: Tray 126689, one, NSP - Count: 17
+2026-01-06 14:02:46,542 - __main__ - INFO - Event processed: Tray 126690, half, NSP - Count: 11
+2026-01-06 14:02:49,546 - __main__ - INFO - Dashboard accessed for conveyor 2
+2026-01-06 14:02:49,550 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:02:49] "GET / HTTP/1.1" 200 -
+2026-01-06 14:02:49,581 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:02:49] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 14:02:49,583 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:02:49] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 14:02:49,637 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:02:49] "GET /stream HTTP/1.1" 200 -
+2026-01-06 14:02:49,672 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:02:49] "[35m[1mGET /audio/half_nsp.wav?1767688369657 HTTP/1.1[0m" 206 -
+2026-01-06 14:02:55,046 - __main__ - INFO - Event processed: Tray 126691, half, SHUBHAM - Count: 1
+2026-01-06 14:02:55,169 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:02:55] "[35m[1mGET /audio/half_shubham.wav?1767688375167 HTTP/1.1[0m" 206 -
+2026-01-06 14:02:58,048 - __main__ - INFO - Event processed: Tray 126692, one, NSP - Count: 18
+2026-01-06 14:02:58,168 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:02:58] "[35m[1mGET /audio/one_nsp.wav?1767688378167 HTTP/1.1[0m" 206 -
+2026-01-06 14:02:59,049 - __main__ - INFO - Event processed: Tray 126693, one, NSP - Count: 19
+2026-01-06 14:02:59,161 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:02:59] "[35m[1mGET /audio/one_nsp.wav?1767688379157 HTTP/1.1[0m" 206 -
+2026-01-06 14:03:01,551 - __main__ - INFO - Event processed: Tray 126694, one, NSP - Count: 20
+2026-01-06 14:03:01,662 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:03:01] "[35m[1mGET /audio/one_nsp.wav?1767688381658 HTTP/1.1[0m" 206 -
+2026-01-06 14:03:02,540 - __main__ - INFO - Event processed: Tray 52553, half, SHUBHAM - Count: 1
+2026-01-06 14:03:02,983 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 14:03:02] "[35m[1mGET /audio/half_shubham.wav?1767688382626 HTTP/1.1[0m" 206 -
+2026-01-06 14:03:03,053 - __main__ - INFO - Event processed: Tray 126695, one, NSP - Count: 21
+2026-01-06 14:03:03,169 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:03:03] "[35m[1mGET /audio/one_nsp.wav?1767688383155 HTTP/1.1[0m" 206 -
+2026-01-06 14:03:08,556 - __main__ - INFO - Event processed: Tray 126696, one, NSP - Count: 22
+2026-01-06 14:03:08,688 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:03:08] "[35m[1mGET /audio/one_nsp.wav?1767688388677 HTTP/1.1[0m" 206 -
+2026-01-06 14:03:09,899 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 14:03:09,903 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:03:09] "GET / HTTP/1.1" 200 -
+2026-01-06 14:03:09,930 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:03:09] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 14:03:09,931 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:03:09] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 14:03:09,932 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:03:09] "GET /stream HTTP/1.1" 200 -
+2026-01-06 14:03:09,989 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:03:09] "[35m[1mGET /audio/half_shubham.wav?1767688389972 HTTP/1.1[0m" 206 -
+2026-01-06 14:03:10,058 - __main__ - INFO - Event processed: Tray 126697, half, NSP - Count: 12
+2026-01-06 14:03:10,135 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 14:03:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-06 14:03:16,562 - __main__ - INFO - Event processed: Tray 126698, half, NSP - Count: 13
+2026-01-06 14:03:18,065 - __main__ - INFO - Event processed: Tray 126699, half, SHUBHAM - Count: 2
+2026-01-06 14:03:20,067 - __main__ - INFO - Event processed: Tray 126700, half, NSP - Count: 14
+2026-01-06 14:03:23,069 - __main__ - INFO - Event processed: Tray 126701, half, NSP - Count: 15
+2026-01-06 14:03:26,072 - __main__ - INFO - Event processed: Tray 126702, one, NSP - Count: 23
+2026-01-06 14:03:31,575 - __main__ - INFO - Event processed: Tray 126703, one, NSP - Count: 24
+2026-01-06 14:03:35,577 - __main__ - INFO - Event processed: Tray 126704, one, NSP - Count: 25
+2026-01-06 14:03:37,079 - __main__ - INFO - Event processed: Tray 126705, one, SHUBHAM - Count: 1
+2026-01-06 14:03:41,581 - __main__ - INFO - Event processed: Tray 126706, one, NSP - Count: 26
+2026-01-06 14:03:43,552 - __main__ - INFO - Event processed: Tray 52554, half, SHUBHAM - Count: 2
+2026-01-06 14:03:43,885 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 14:03:43] "[35m[1mGET /audio/half_shubham.wav?1767688423592 HTTP/1.1[0m" 206 -
+2026-01-06 15:04:43,863 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 4, Port: 5004
+2026-01-06 15:04:43,863 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 2, Port: 5002
+2026-01-06 15:04:43,866 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 15:04:43,866 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 15:04:43,866 - __main__ - INFO - State loaded | inode=18091567 offset=8949174
+2026-01-06 15:04:43,866 - __main__ - INFO - State loaded | inode=18121195 offset=21651040
+2026-01-06 15:04:43,866 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_2.log
+2026-01-06 15:04:43,866 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_4.log
+2026-01-06 15:04:43,867 - __main__ - INFO - Background threads started
+2026-01-06 15:04:43,867 - __main__ - INFO - Dashboard available at: http://localhost:5004
+2026-01-06 15:04:43,867 - __main__ - INFO - Background threads started
+2026-01-06 15:04:43,867 - __main__ - INFO - Dashboard available at: http://localhost:5002
+2026-01-06 15:04:43,868 - __main__ - INFO - Caught up to live log
+2026-01-06 15:04:43,870 - __main__ - INFO - Caught up to live log
+2026-01-06 15:04:43,871 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://192.168.0.115:5004
+2026-01-06 15:04:43,871 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 15:04:43,872 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.0.115:5002
+2026-01-06 15:04:43,872 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 15:04:46,213 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:04:46] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:04:46,372 - __main__ - INFO - Event processed: Tray 127927, half, TONED - Count: 378
+2026-01-06 15:04:47,373 - __main__ - INFO - Event processed: Tray 127928, half, SHUBHAM - Count: 273
+2026-01-06 15:04:48,375 - __main__ - INFO - Event processed: Tray 127929, one, TONED - Count: 389
+2026-01-06 15:04:48,871 - __main__ - INFO - Event processed: Tray 53270, one, SHUBHAM - Count: 315
+2026-01-06 15:04:49,276 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:04:49] "[35m[1mGET /audio/one_shubham.wav?1767692089099 HTTP/1.1[0m" 206 -
+2026-01-06 15:04:49,873 - __main__ - INFO - Event processed: Tray 53271, one, SHUBHAM - Count: 316
+2026-01-06 15:04:50,876 - __main__ - INFO - Event processed: Tray 127930, one, SHUBHAM - Count: 146
+2026-01-06 15:04:51,006 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:04:51] "[35m[1mGET /audio/one_shubham.wav?1767692090830 HTTP/1.1[0m" 206 -
+2026-01-06 15:04:51,877 - __main__ - INFO - Event processed: Tray 127931, half, TONED - Count: 379
+2026-01-06 15:04:55,380 - __main__ - INFO - Event processed: Tray 127932, one, TONED - Count: 390
+2026-01-06 15:04:55,877 - __main__ - INFO - Event processed: Tray 53272, one, SHUBHAM - Count: 317
+2026-01-06 15:04:55,881 - __main__ - INFO - Event processed: Tray 127933, half, TONED - Count: 380
+2026-01-06 15:04:56,271 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:04:56] "[35m[1mGET /audio/one_shubham.wav?1767692096102 HTTP/1.1[0m" 206 -
+2026-01-06 15:04:57,884 - __main__ - INFO - Event processed: Tray 127934, one, TONED - Count: 391
+2026-01-06 15:04:57,885 - __main__ - INFO - Event processed: Tray 127935, half, TONED - Count: 381
+2026-01-06 15:05:00,387 - __main__ - INFO - Event processed: Tray 127936, one, TONED - Count: 392
+2026-01-06 15:05:00,888 - __main__ - INFO - Event processed: Tray 127937, half, TONED - Count: 382
+2026-01-06 15:05:04,391 - __main__ - INFO - Event processed: Tray 127938, one, TONED - Count: 393
+2026-01-06 15:05:05,393 - __main__ - INFO - Event processed: Tray 127939, half, TONED - Count: 383
+2026-01-06 15:05:05,882 - __main__ - INFO - Event processed: Tray 53273, one, SHUBHAM - Count: 318
+2026-01-06 15:05:06,317 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:05:06] "[35m[1mGET /audio/one_shubham.wav?1767692106145 HTTP/1.1[0m" 206 -
+2026-01-06 15:05:06,395 - __main__ - INFO - Event processed: Tray 127940, half, SHUBHAM - Count: 274
+2026-01-06 15:05:07,884 - __main__ - INFO - Event processed: Tray 53274, half, SHUBHAM - Count: 392
+2026-01-06 15:05:07,897 - __main__ - INFO - Event processed: Tray 127941, one, TONED - Count: 394
+2026-01-06 15:05:08,306 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:05:08] "[35m[1mGET /audio/half_shubham.wav?1767692108137 HTTP/1.1[0m" 206 -
+2026-01-06 15:05:09,885 - __main__ - INFO - Event processed: Tray 53275, one, SHUBHAM - Count: 319
+2026-01-06 15:05:10,314 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:05:10] "[35m[1mGET /audio/one_shubham.wav?1767692110139 HTTP/1.1[0m" 206 -
+2026-01-06 15:05:10,399 - __main__ - INFO - Event processed: Tray 127942, half, TONED - Count: 384
+2026-01-06 15:05:11,401 - __main__ - INFO - Event processed: Tray 127943, half, TONED - Count: 385
+2026-01-06 15:05:12,387 - __main__ - INFO - Event processed: Tray 53276, half, SHUBHAM - Count: 393
+2026-01-06 15:05:12,814 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:05:12] "[35m[1mGET /audio/half_shubham.wav?1767692112639 HTTP/1.1[0m" 206 -
+2026-01-06 15:05:12,903 - __main__ - INFO - Event processed: Tray 127944, one, SHUBHAM - Count: 147
+2026-01-06 15:05:13,217 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:05:13,224 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:05:13] "GET / HTTP/1.1" 200 -
+2026-01-06 15:05:13,389 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:05:13] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:05:13,401 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:05:13] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:05:13,404 - __main__ - INFO - Event processed: Tray 127945, half, TONED - Count: 386
+2026-01-06 15:05:13,553 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:05:13] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:05:13,801 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:05:13] "[35m[1mGET /audio/half_shubham.wav?1767692113602 HTTP/1.1[0m" 206 -
+2026-01-06 15:05:13,888 - __main__ - INFO - Event processed: Tray 53277, half, SHUBHAM - Count: 394
+2026-01-06 15:05:14,405 - __main__ - INFO - Event processed: Tray 127946, half, SHUBHAM - Count: 275
+2026-01-06 15:05:14,890 - __main__ - INFO - Event processed: Tray 53278, half, SHUBHAM - Count: 395
+2026-01-06 15:05:15,907 - __main__ - INFO - Event processed: Tray 127947, one, TONED - Count: 395
+2026-01-06 15:05:16,106 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:05:16] "[35m[1mGET /audio/half_shubham.wav?1767692115894 HTTP/1.1[0m" 206 -
+2026-01-06 15:05:17,893 - __main__ - INFO - Event processed: Tray 53279, one, SHUBHAM - Count: 320
+2026-01-06 15:05:18,243 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:05:18] "[35m[1mGET /audio/half_shubham.wav?1767692118019 HTTP/1.1[0m" 206 -
+2026-01-06 15:05:18,909 - __main__ - INFO - Event processed: Tray 127948, one, TONED - Count: 396
+2026-01-06 15:05:19,411 - __main__ - INFO - Event processed: Tray 127949, half, TONED - Count: 387
+2026-01-06 15:05:20,534 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:05:20] "[35m[1mGET /audio/one_shubham.wav?1767692120261 HTTP/1.1[0m" 206 -
+2026-01-06 15:05:21,395 - __main__ - INFO - Event processed: Tray 53280, half, SHUBHAM - Count: 396
+2026-01-06 15:05:21,413 - __main__ - INFO - Event processed: Tray 127950, one, TONED - Count: 397
+2026-01-06 15:05:22,415 - __main__ - INFO - Event processed: Tray 127951, one, TONED - Count: 398
+2026-01-06 15:05:23,059 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:05:23] "[35m[1mGET /audio/half_shubham.wav?1767692122763 HTTP/1.1[0m" 206 -
+2026-01-06 15:05:23,917 - __main__ - INFO - Event processed: Tray 127952, half, SHUBHAM - Count: 276
+2026-01-06 15:05:25,898 - __main__ - INFO - Event processed: Tray 53281, one, SHUBHAM - Count: 321
+2026-01-06 15:05:25,919 - __main__ - INFO - Event processed: Tray 127953, half, TONED - Count: 388
+2026-01-06 15:05:26,514 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:05:26] "[35m[1mGET /audio/one_shubham.wav?1767692125992 HTTP/1.1[0m" 206 -
+2026-01-06 15:05:27,921 - __main__ - INFO - Event processed: Tray 127954, half, TONED - Count: 389
+2026-01-06 15:05:28,923 - __main__ - INFO - Event processed: Tray 127955, half, TONED - Count: 390
+2026-01-06 15:05:29,424 - __main__ - INFO - Event processed: Tray 127956, one, TONED - Count: 399
+2026-01-06 15:05:32,927 - __main__ - INFO - Event processed: Tray 127957, one, TONED - Count: 400
+2026-01-06 15:05:34,429 - __main__ - INFO - Event processed: Tray 127958, one, TONED - Count: 401
+2026-01-06 15:05:34,902 - __main__ - INFO - Event processed: Tray 53282, one, SHUBHAM - Count: 322
+2026-01-06 15:05:35,431 - __main__ - INFO - Event processed: Tray 127959, one, SHUBHAM - Count: 148
+2026-01-06 15:05:36,582 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:05:36] "[35m[1mGET /audio/one_shubham.wav?1767692135091 HTTP/1.1[0m" 206 -
+2026-01-06 15:05:37,904 - __main__ - INFO - Event processed: Tray 53283, half, SHUBHAM - Count: 397
+2026-01-06 15:05:40,434 - __main__ - INFO - Event processed: Tray 127960, half, SHUBHAM - Count: 277
+2026-01-06 15:05:41,936 - __main__ - INFO - Event processed: Tray 127961, half, TONED - Count: 391
+2026-01-06 15:05:42,407 - __main__ - INFO - Event processed: Tray 53284, half, SHUBHAM - Count: 398
+2026-01-06 15:05:43,438 - __main__ - INFO - Event processed: Tray 127962, half, TONED - Count: 392
+2026-01-06 15:05:43,909 - __main__ - INFO - Event processed: Tray 53285, half, SHUBHAM - Count: 399
+2026-01-06 15:05:44,940 - __main__ - INFO - Event processed: Tray 127963, one, TONED - Count: 402
+2026-01-06 15:05:45,441 - __main__ - INFO - Event processed: Tray 127964, half, TONED - Count: 393
+2026-01-06 15:05:46,411 - __main__ - INFO - Event processed: Tray 53286, one, SHUBHAM - Count: 323
+2026-01-06 15:05:47,444 - __main__ - INFO - Event processed: Tray 127965, half, TONED - Count: 394
+2026-01-06 15:05:47,945 - __main__ - INFO - Event processed: Tray 127966, half, TONED - Count: 395
+2026-01-06 15:05:49,447 - __main__ - INFO - Event processed: Tray 127967, one, TONED - Count: 403
+2026-01-06 15:05:50,914 - __main__ - INFO - Event processed: Tray 53287, one, SHUBHAM - Count: 324
+2026-01-06 15:05:50,949 - __main__ - INFO - Event processed: Tray 127968, one, TONED - Count: 404
+2026-01-06 15:05:51,915 - __main__ - INFO - Event processed: Tray 53288, half, SHUBHAM - Count: 400
+2026-01-06 15:05:51,951 - __main__ - INFO - Event processed: Tray 127969, half, SHUBHAM - Count: 278
+2026-01-06 15:05:53,452 - __main__ - INFO - Event processed: Tray 127970, one, TONED - Count: 405
+2026-01-06 15:05:54,918 - __main__ - INFO - Event processed: Tray 53289, one, SHUBHAM - Count: 325
+2026-01-06 15:05:54,954 - __main__ - INFO - Event processed: Tray 127971, one, TONED - Count: 406
+2026-01-06 15:05:57,456 - __main__ - INFO - Event processed: Tray 127972, half, TONED - Count: 396
+2026-01-06 15:05:58,920 - __main__ - INFO - Event processed: Tray 53290, half, SHUBHAM - Count: 401
+2026-01-06 15:05:58,957 - __main__ - INFO - Event processed: Tray 127973, half, SHUBHAM - Count: 279
+2026-01-06 15:06:04,961 - __main__ - INFO - Event processed: Tray 127974, one, TONED - Count: 407
+2026-01-06 15:06:06,464 - __main__ - INFO - Event processed: Tray 127975, one, TONED - Count: 408
+2026-01-06 15:06:06,924 - __main__ - INFO - Event processed: Tray 53291, one, SHUBHAM - Count: 326
+2026-01-06 15:06:07,965 - __main__ - INFO - Event processed: Tray 127976, one, SHUBHAM - Count: 149
+2026-01-06 15:06:09,968 - __main__ - INFO - Event processed: Tray 127977, half, TONED - Count: 397
+2026-01-06 15:06:10,426 - __main__ - INFO - Event processed: Tray 53292, one, SHUBHAM - Count: 327
+2026-01-06 15:06:10,970 - __main__ - INFO - Event processed: Tray 127978, half, TONED - Count: 398
+2026-01-06 15:06:11,472 - __main__ - INFO - Event processed: Tray 127979, one, TONED - Count: 409
+2026-01-06 15:06:13,474 - __main__ - INFO - Event processed: Tray 127980, one, TONED - Count: 410
+2026-01-06 15:06:14,976 - __main__ - INFO - Event processed: Tray 127981, half, TONED - Count: 399
+2026-01-06 15:06:15,978 - __main__ - INFO - Event processed: Tray 127982, one, TONED - Count: 411
+2026-01-06 15:06:16,980 - __main__ - INFO - Event processed: Tray 127983, one, TONED - Count: 412
+2026-01-06 15:06:17,982 - __main__ - INFO - Event processed: Tray 127984, half, TONED - Count: 400
+2026-01-06 15:06:18,429 - __main__ - INFO - Event processed: Tray 53293, half, SHUBHAM - Count: 402
+2026-01-06 15:06:18,435 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:06:18,442 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:06:18] "GET / HTTP/1.1" 200 -
+2026-01-06 15:06:18,905 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:06:18] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:06:18,906 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:06:18] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:06:19,484 - __main__ - INFO - Event processed: Tray 127985, one, TONED - Count: 413
+2026-01-06 15:06:20,051 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:06:20] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:06:20,350 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:06:20] "[35m[1mGET /audio/half_shubham.wav?1767692180126 HTTP/1.1[0m" 206 -
+2026-01-06 15:06:20,387 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:06:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-06 15:06:20,985 - __main__ - INFO - Event processed: Tray 127986, half, TONED - Count: 401
+2026-01-06 15:06:21,987 - __main__ - INFO - Event processed: Tray 127987, one, TONED - Count: 414
+2026-01-06 15:06:23,489 - __main__ - INFO - Event processed: Tray 127988, half, TONED - Count: 402
+2026-01-06 15:06:24,991 - __main__ - INFO - Event processed: Tray 127989, half, TONED - Count: 403
+2026-01-06 15:06:26,993 - __main__ - INFO - Event processed: Tray 127990, one, SHUBHAM - Count: 150
+2026-01-06 15:06:27,933 - __main__ - INFO - Event processed: Tray 53294, one, SHUBHAM - Count: 328
+2026-01-06 15:06:28,167 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:06:28] "[35m[1mGET /audio/one_shubham.wav?1767692187954 HTTP/1.1[0m" 206 -
+2026-01-06 15:06:28,495 - __main__ - INFO - Event processed: Tray 127991, half, SHUBHAM - Count: 280
+2026-01-06 15:06:30,435 - __main__ - INFO - Event processed: Tray 53295, one, SHUBHAM - Count: 329
+2026-01-06 15:06:30,622 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:06:30] "[35m[1mGET /audio/one_shubham.wav?1767692190456 HTTP/1.1[0m" 206 -
+2026-01-06 15:06:30,997 - __main__ - INFO - Event processed: Tray 127992, half, TONED - Count: 404
+2026-01-06 15:06:31,936 - __main__ - INFO - Event processed: Tray 53296, one, SHUBHAM - Count: 330
+2026-01-06 15:06:31,999 - __main__ - INFO - Event processed: Tray 127993, half, TONED - Count: 405
+2026-01-06 15:06:32,817 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:06:32] "[35m[1mGET /audio/one_shubham.wav?1767692192606 HTTP/1.1[0m" 206 -
+2026-01-06 15:06:33,501 - __main__ - INFO - Event processed: Tray 127994, half, SHUBHAM - Count: 281
+2026-01-06 15:06:34,438 - __main__ - INFO - Event processed: Tray 53297, half, SHUBHAM - Count: 403
+2026-01-06 15:06:34,503 - __main__ - INFO - Event processed: Tray 127995, one, TONED - Count: 415
+2026-01-06 15:06:35,018 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:06:35] "[35m[1mGET /audio/half_shubham.wav?1767692194799 HTTP/1.1[0m" 206 -
+2026-01-06 15:06:35,505 - __main__ - INFO - Event processed: Tray 127996, half, TONED - Count: 406
+2026-01-06 15:06:37,007 - __main__ - INFO - Event processed: Tray 127997, half, TONED - Count: 407
+2026-01-06 15:06:38,478 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:06:38,481 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:06:38] "GET / HTTP/1.1" 200 -
+2026-01-06 15:06:38,502 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:06:38] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:06:38,503 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:06:38] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:06:38,516 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:06:38] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:06:38,567 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:06:38] "[35m[1mGET /audio/half_shubham.wav?1767692198542 HTTP/1.1[0m" 206 -
+2026-01-06 15:06:39,940 - __main__ - INFO - Event processed: Tray 53298, half, SHUBHAM - Count: 404
+2026-01-06 15:06:40,010 - __main__ - INFO - Event processed: Tray 127998, one, TONED - Count: 416
+2026-01-06 15:06:40,036 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:06:40] "[35m[1mGET /audio/half_shubham.wav?1767692200012 HTTP/1.1[0m" 206 -
+2026-01-06 15:06:40,185 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:06:40] "[35m[1mGET /audio/half_shubham.wav?1767692199977 HTTP/1.1[0m" 206 -
+2026-01-06 15:06:42,013 - __main__ - INFO - Event processed: Tray 127999, half, SHUBHAM - Count: 282
+2026-01-06 15:06:44,015 - __main__ - INFO - Event processed: Tray 128000, one, TONED - Count: 417
+2026-01-06 15:06:47,017 - __main__ - INFO - Event processed: Tray 128001, one, TONED - Count: 418
+2026-01-06 15:06:47,519 - __main__ - INFO - Event processed: Tray 128002, one, TONED - Count: 419
+2026-01-06 15:06:51,022 - __main__ - INFO - Event processed: Tray 128003, one, TONED - Count: 420
+2026-01-06 15:06:52,524 - __main__ - INFO - Event processed: Tray 128004, one, SHUBHAM - Count: 151
+2026-01-06 15:06:53,026 - __main__ - INFO - Event processed: Tray 128005, half, TONED - Count: 408
+2026-01-06 15:06:53,945 - __main__ - INFO - Event processed: Tray 53299, one, SHUBHAM - Count: 331
+2026-01-06 15:06:54,063 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:06:54] "[35m[1mGET /audio/one_shubham.wav?1767692214045 HTTP/1.1[0m" 206 -
+2026-01-06 15:06:54,209 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:06:54] "[35m[1mGET /audio/one_shubham.wav?1767692213991 HTTP/1.1[0m" 206 -
+2026-01-06 15:06:54,528 - __main__ - INFO - Event processed: Tray 128006, one, TONED - Count: 421
+2026-01-06 15:06:55,530 - __main__ - INFO - Event processed: Tray 128007, one, TONED - Count: 422
+2026-01-06 15:06:56,032 - __main__ - INFO - Event processed: Tray 128008, half, TONED - Count: 409
+2026-01-06 15:06:58,447 - __main__ - INFO - Event processed: Tray 53300, one, SHUBHAM - Count: 332
+2026-01-06 15:06:58,563 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:06:58] "[35m[1mGET /audio/one_shubham.wav?1767692218549 HTTP/1.1[0m" 206 -
+2026-01-06 15:06:58,627 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:06:58] "[35m[1mGET /audio/one_shubham.wav?1767692218466 HTTP/1.1[0m" 206 -
+2026-01-06 15:06:59,035 - __main__ - INFO - Event processed: Tray 128009, one, TONED - Count: 423
+2026-01-06 15:06:59,948 - __main__ - INFO - Event processed: Tray 53301, half, SHUBHAM - Count: 405
+2026-01-06 15:07:00,037 - __main__ - INFO - Event processed: Tray 128010, half, TONED - Count: 410
+2026-01-06 15:07:00,058 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:00] "[35m[1mGET /audio/half_shubham.wav?1767692220046 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:00,515 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:00] "[35m[1mGET /audio/half_shubham.wav?1767692220299 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:01,039 - __main__ - INFO - Event processed: Tray 128011, half, TONED - Count: 411
+2026-01-06 15:07:01,449 - __main__ - INFO - Event processed: Tray 53302, half, SHUBHAM - Count: 406
+2026-01-06 15:07:01,557 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:01] "[35m[1mGET /audio/half_shubham.wav?1767692221544 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:02,041 - __main__ - INFO - Event processed: Tray 128012, half, TONED - Count: 412
+2026-01-06 15:07:02,741 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:02] "[35m[1mGET /audio/half_shubham.wav?1767692222519 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:02,951 - __main__ - INFO - Event processed: Tray 53303, half, SHUBHAM - Count: 407
+2026-01-06 15:07:03,043 - __main__ - INFO - Event processed: Tray 128013, half, TONED - Count: 413
+2026-01-06 15:07:03,064 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:03] "[35m[1mGET /audio/half_shubham.wav?1767692223046 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:04,500 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:04] "[35m[1mGET /audio/half_shubham.wav?1767692224346 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:04,545 - __main__ - INFO - Event processed: Tray 128014, one, TONED - Count: 424
+2026-01-06 15:07:05,452 - __main__ - INFO - Event processed: Tray 53304, half, SHUBHAM - Count: 408
+2026-01-06 15:07:05,547 - __main__ - INFO - Event processed: Tray 128015, half, SHUBHAM - Count: 283
+2026-01-06 15:07:05,559 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:05] "[35m[1mGET /audio/half_shubham.wav?1767692225545 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:06,549 - __main__ - INFO - Event processed: Tray 128016, half, TONED - Count: 414
+2026-01-06 15:07:06,637 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:06] "[35m[1mGET /audio/half_shubham.wav?1767692226412 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:07,551 - __main__ - INFO - Event processed: Tray 128017, one, TONED - Count: 425
+2026-01-06 15:07:09,053 - __main__ - INFO - Event processed: Tray 128018, half, TONED - Count: 415
+2026-01-06 15:07:10,955 - __main__ - INFO - Event processed: Tray 53305, half, SHUBHAM - Count: 409
+2026-01-06 15:07:11,060 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:11] "[35m[1mGET /audio/half_shubham.wav?1767692231046 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:11,170 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:11] "[35m[1mGET /audio/half_shubham.wav?1767692230969 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:11,556 - __main__ - INFO - Event processed: Tray 128019, half, SHUBHAM - Count: 284
+2026-01-06 15:07:12,456 - __main__ - INFO - Event processed: Tray 53306, one, SHUBHAM - Count: 333
+2026-01-06 15:07:12,558 - __main__ - INFO - Event processed: Tray 128020, one, TONED - Count: 426
+2026-01-06 15:07:12,559 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:12] "[35m[1mGET /audio/one_shubham.wav?1767692232544 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:13,295 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:13] "[35m[1mGET /audio/one_shubham.wav?1767692233068 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:14,060 - __main__ - INFO - Event processed: Tray 128021, one, TONED - Count: 427
+2026-01-06 15:07:15,562 - __main__ - INFO - Event processed: Tray 128022, half, TONED - Count: 416
+2026-01-06 15:07:17,959 - __main__ - INFO - Event processed: Tray 53307, one, SHUBHAM - Count: 334
+2026-01-06 15:07:18,064 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:18] "[35m[1mGET /audio/one_shubham.wav?1767692238048 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:18,065 - __main__ - INFO - Event processed: Tray 128023, one, SHUBHAM - Count: 152
+2026-01-06 15:07:18,220 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:18] "[35m[1mGET /audio/one_shubham.wav?1767692238002 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:19,067 - __main__ - INFO - Event processed: Tray 128024, half, TONED - Count: 417
+2026-01-06 15:07:19,460 - __main__ - INFO - Event processed: Tray 53308, one, SHUBHAM - Count: 335
+2026-01-06 15:07:19,560 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:19] "[35m[1mGET /audio/one_shubham.wav?1767692239547 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:19,568 - __main__ - INFO - Event processed: Tray 128025, one, TONED - Count: 428
+2026-01-06 15:07:20,054 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:20] "[35m[1mGET /audio/one_shubham.wav?1767692239820 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:23,571 - __main__ - INFO - Event processed: Tray 128026, one, TONED - Count: 429
+2026-01-06 15:07:24,573 - __main__ - INFO - Event processed: Tray 128027, half, TONED - Count: 418
+2026-01-06 15:07:25,575 - __main__ - INFO - Event processed: Tray 128028, half, SHUBHAM - Count: 285
+2026-01-06 15:07:27,077 - __main__ - INFO - Event processed: Tray 128029, one, TONED - Count: 430
+2026-01-06 15:07:28,580 - __main__ - INFO - Event processed: Tray 128030, half, TONED - Count: 419
+2026-01-06 15:07:29,582 - __main__ - INFO - Event processed: Tray 128031, half, TONED - Count: 420
+2026-01-06 15:07:30,964 - __main__ - INFO - Event processed: Tray 53309, one, SHUBHAM - Count: 336
+2026-01-06 15:07:31,061 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:31] "[35m[1mGET /audio/one_shubham.wav?1767692251048 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:31,084 - __main__ - INFO - Event processed: Tray 128032, half, TONED - Count: 421
+2026-01-06 15:07:31,222 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:31] "[35m[1mGET /audio/one_shubham.wav?1767692251008 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:31,965 - __main__ - INFO - Event processed: Tray 53310, one, SHUBHAM - Count: 337
+2026-01-06 15:07:32,478 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:32] "[35m[1mGET /audio/one_shubham.wav?1767692252456 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:32,994 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:32] "[35m[1mGET /audio/one_shubham.wav?1767692252835 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:33,086 - __main__ - INFO - Event processed: Tray 128033, one, TONED - Count: 431
+2026-01-06 15:07:33,467 - __main__ - INFO - Event processed: Tray 53311, half, SHUBHAM - Count: 410
+2026-01-06 15:07:33,839 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:33] "[35m[1mGET /audio/half_shubham.wav?1767692253815 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:34,088 - __main__ - INFO - Event processed: Tray 128034, half, TONED - Count: 422
+2026-01-06 15:07:34,968 - __main__ - INFO - Event processed: Tray 53312, half, SHUBHAM - Count: 411
+2026-01-06 15:07:35,171 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:35] "[35m[1mGET /audio/half_shubham.wav?1767692254944 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:35,250 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:35] "[35m[1mGET /audio/half_shubham.wav?1767692255234 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:35,590 - __main__ - INFO - Event processed: Tray 128035, half, TONED - Count: 423
+2026-01-06 15:07:36,470 - __main__ - INFO - Event processed: Tray 53313, half, SHUBHAM - Count: 412
+2026-01-06 15:07:36,592 - __main__ - INFO - Event processed: Tray 128036, one, TONED - Count: 432
+2026-01-06 15:07:36,666 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:36] "[35m[1mGET /audio/half_shubham.wav?1767692256643 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:37,376 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:37] "[35m[1mGET /audio/half_shubham.wav?1767692257104 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:39,094 - __main__ - INFO - Event processed: Tray 128037, one, SHUBHAM - Count: 153
+2026-01-06 15:07:39,328 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:39] "[35m[1mGET /audio/half_shubham.wav?1767692259064 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:40,472 - __main__ - INFO - Event processed: Tray 53314, half, SHUBHAM - Count: 413
+2026-01-06 15:07:40,566 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:40] "[35m[1mGET /audio/half_shubham.wav?1767692260548 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:41,095 - __main__ - INFO - Event processed: Tray 128038, half, SHUBHAM - Count: 286
+2026-01-06 15:07:41,624 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:41] "[35m[1mGET /audio/half_shubham.wav?1767692261402 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:42,974 - __main__ - INFO - Event processed: Tray 53315, one, SHUBHAM - Count: 338
+2026-01-06 15:07:43,068 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:43] "[35m[1mGET /audio/one_shubham.wav?1767692263049 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:43,097 - __main__ - INFO - Event processed: Tray 128039, one, TONED - Count: 433
+2026-01-06 15:07:43,475 - __main__ - INFO - Event processed: Tray 53316, half, SHUBHAM - Count: 414
+2026-01-06 15:07:43,930 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:43] "[35m[1mGET /audio/one_shubham.wav?1767692263710 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:44,099 - __main__ - INFO - Event processed: Tray 128040, one, TONED - Count: 434
+2026-01-06 15:07:44,416 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:44] "[35m[1mGET /audio/half_shubham.wav?1767692264398 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:45,600 - __main__ - INFO - Event processed: Tray 128041, one, TONED - Count: 435
+2026-01-06 15:07:45,848 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:45] "[35m[1mGET /audio/half_shubham.wav?1767692265629 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:46,601 - __main__ - INFO - Event processed: Tray 128042, half, TONED - Count: 424
+2026-01-06 15:07:48,103 - __main__ - INFO - Event processed: Tray 128043, half, TONED - Count: 425
+2026-01-06 15:07:49,606 - __main__ - INFO - Event processed: Tray 128044, half, SHUBHAM - Count: 287
+2026-01-06 15:07:50,978 - __main__ - INFO - Event processed: Tray 53318, one, SHUBHAM - Count: 339
+2026-01-06 15:07:51,081 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:51] "[35m[1mGET /audio/one_shubham.wav?1767692271065 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:51,108 - __main__ - INFO - Event processed: Tray 128045, half, TONED - Count: 426
+2026-01-06 15:07:51,220 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:51] "[35m[1mGET /audio/one_shubham.wav?1767692270999 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:52,110 - __main__ - INFO - Event processed: Tray 128046, half, TONED - Count: 427
+2026-01-06 15:07:53,112 - __main__ - INFO - Event processed: Tray 128047, one, TONED - Count: 436
+2026-01-06 15:07:54,114 - __main__ - INFO - Event processed: Tray 128048, one, TONED - Count: 437
+2026-01-06 15:07:55,115 - __main__ - INFO - Event processed: Tray 128049, half, SHUBHAM - Count: 288
+2026-01-06 15:07:56,116 - __main__ - INFO - Event processed: Tray 128050, one, TONED - Count: 438
+2026-01-06 15:07:56,480 - __main__ - INFO - Event processed: Tray 53319, one, SHUBHAM - Count: 340
+2026-01-06 15:07:56,584 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:07:56] "[35m[1mGET /audio/one_shubham.wav?1767692276565 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:56,740 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:07:56] "[35m[1mGET /audio/one_shubham.wav?1767692276508 HTTP/1.1[0m" 206 -
+2026-01-06 15:07:57,618 - __main__ - INFO - Event processed: Tray 128051, half, TONED - Count: 428
+2026-01-06 15:07:59,120 - __main__ - INFO - Event processed: Tray 128052, half, TONED - Count: 429
+2026-01-06 15:08:00,121 - __main__ - INFO - Event processed: Tray 128053, one, TONED - Count: 439
+2026-01-06 15:08:01,483 - __main__ - INFO - Event processed: Tray 53320, half, SHUBHAM - Count: 415
+2026-01-06 15:08:01,587 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:08:01] "[35m[1mGET /audio/half_shubham.wav?1767692281568 HTTP/1.1[0m" 206 -
+2026-01-06 15:08:01,724 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:08:01] "[35m[1mGET /audio/half_shubham.wav?1767692281504 HTTP/1.1[0m" 206 -
+2026-01-06 15:08:03,624 - __main__ - INFO - Event processed: Tray 128054, one, SHUBHAM - Count: 154
+2026-01-06 15:08:05,126 - __main__ - INFO - Event processed: Tray 128055, one, TONED - Count: 440
+2026-01-06 15:08:09,212 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 4, Port: 5004
+2026-01-06 15:08:09,216 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 15:08:09,217 - __main__ - INFO - State loaded | inode=18091567 offset=8957920
+2026-01-06 15:08:09,217 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_4.log
+2026-01-06 15:08:09,218 - __main__ - INFO - Background threads started
+2026-01-06 15:08:09,218 - __main__ - INFO - Dashboard available at: http://localhost:5004
+2026-01-06 15:08:09,221 - __main__ - INFO - Caught up to live log
+2026-01-06 15:08:09,224 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://192.168.0.115:5004
+2026-01-06 15:08:09,224 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 15:08:09,460 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:08:09] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:08:11,955 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:08:11] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:08:13,223 - __main__ - INFO - Event processed: Tray 53323, half, SHUBHAM - Count: 417
+2026-01-06 15:08:13,478 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:08:13] "[35m[1mGET /audio/half_shubham.wav?1767692293458 HTTP/1.1[0m" 206 -
+2026-01-06 15:08:13,502 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:08:13] "[35m[1mGET /audio/half_shubham.wav?1767692293342 HTTP/1.1[0m" 206 -
+2026-01-06 15:08:17,226 - __main__ - INFO - Event processed: Tray 53324, half, SHUBHAM - Count: 418
+2026-01-06 15:08:17,487 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:08:17] "[35m[1mGET /audio/half_shubham.wav?1767692297472 HTTP/1.1[0m" 206 -
+2026-01-06 15:08:17,582 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:08:17] "[35m[1mGET /audio/half_shubham.wav?1767692297356 HTTP/1.1[0m" 206 -
+2026-01-06 15:08:20,228 - __main__ - INFO - Event processed: Tray 53325, half, SHUBHAM - Count: 419
+2026-01-06 15:08:20,602 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:08:20] "[35m[1mGET /audio/half_shubham.wav?1767692300389 HTTP/1.1[0m" 206 -
+2026-01-06 15:08:22,230 - __main__ - INFO - Event processed: Tray 53326, one, SHUBHAM - Count: 342
+2026-01-06 15:08:22,884 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:08:22] "[35m[1mGET /audio/one_shubham.wav?1767692302650 HTTP/1.1[0m" 206 -
+2026-01-06 15:08:26,233 - __main__ - INFO - Event processed: Tray 53327, one, SHUBHAM - Count: 343
+2026-01-06 15:08:26,558 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:08:26] "[35m[1mGET /audio/one_shubham.wav?1767692306372 HTTP/1.1[0m" 206 -
+2026-01-06 15:08:29,735 - __main__ - INFO - Event processed: Tray 53328, one, SHUBHAM - Count: 344
+2026-01-06 15:08:30,082 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:08:30] "[35m[1mGET /audio/one_shubham.wav?1767692309863 HTTP/1.1[0m" 206 -
+2026-01-06 15:08:33,238 - __main__ - INFO - Event processed: Tray 53329, half, SHUBHAM - Count: 420
+2026-01-06 15:08:33,577 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:08:33] "[35m[1mGET /audio/half_shubham.wav?1767692313350 HTTP/1.1[0m" 206 -
+2026-01-06 15:08:36,740 - __main__ - INFO - Event processed: Tray 53330, half, SHUBHAM - Count: 421
+2026-01-06 15:08:37,108 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:08:37] "[35m[1mGET /audio/half_shubham.wav?1767692316890 HTTP/1.1[0m" 206 -
+2026-01-06 15:08:45,245 - __main__ - INFO - Event processed: Tray 53332, one, SHUBHAM - Count: 345
+2026-01-06 15:08:45,600 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:08:45] "[35m[1mGET /audio/one_shubham.wav?1767692325385 HTTP/1.1[0m" 206 -
+2026-01-06 15:08:48,748 - __main__ - INFO - Event processed: Tray 53333, one, SHUBHAM - Count: 346
+2026-01-06 15:08:49,043 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:08:49] "[35m[1mGET /audio/one_shubham.wav?1767692328869 HTTP/1.1[0m" 206 -
+2026-01-06 15:08:51,750 - __main__ - INFO - Event processed: Tray 53334, half, SHUBHAM - Count: 422
+2026-01-06 15:08:52,127 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:08:52] "[35m[1mGET /audio/half_shubham.wav?1767692331896 HTTP/1.1[0m" 206 -
+2026-01-06 15:08:53,252 - __main__ - INFO - Event processed: Tray 53335, half, SHUBHAM - Count: 423
+2026-01-06 15:08:54,050 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:08:54] "[35m[1mGET /audio/half_shubham.wav?1767692333818 HTTP/1.1[0m" 206 -
+2026-01-06 15:08:58,256 - __main__ - INFO - Event processed: Tray 53336, half, SHUBHAM - Count: 424
+2026-01-06 15:08:58,646 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:08:58] "[35m[1mGET /audio/half_shubham.wav?1767692338429 HTTP/1.1[0m" 206 -
+2026-01-06 15:09:00,258 - __main__ - INFO - Event processed: Tray 53337, one, SHUBHAM - Count: 347
+2026-01-06 15:09:00,603 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:09:00] "[35m[1mGET /audio/one_shubham.wav?1767692340385 HTTP/1.1[0m" 206 -
+2026-01-06 15:09:03,761 - __main__ - INFO - Event processed: Tray 53338, half, SHUBHAM - Count: 425
+2026-01-06 15:09:04,126 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:09:04] "[35m[1mGET /audio/half_shubham.wav?1767692343912 HTTP/1.1[0m" 206 -
+2026-01-06 15:09:10,265 - __main__ - INFO - Event processed: Tray 53339, one, SHUBHAM - Count: 348
+2026-01-06 15:09:10,559 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:09:10] "[35m[1mGET /audio/one_shubham.wav?1767692350387 HTTP/1.1[0m" 206 -
+2026-01-06 15:09:19,771 - __main__ - INFO - Event processed: Tray 53340, half, SHUBHAM - Count: 426
+2026-01-06 15:09:20,127 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:09:20] "[35m[1mGET /audio/half_shubham.wav?1767692359914 HTTP/1.1[0m" 206 -
+2026-01-06 15:09:21,773 - __main__ - INFO - Event processed: Tray 53341, one, SHUBHAM - Count: 349
+2026-01-06 15:09:22,058 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:09:22] "[35m[1mGET /audio/one_shubham.wav?1767692361888 HTTP/1.1[0m" 206 -
+2026-01-06 15:09:33,779 - __main__ - INFO - Event processed: Tray 53342, half, SHUBHAM - Count: 427
+2026-01-06 15:09:34,134 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:09:34] "[35m[1mGET /audio/half_shubham.wav?1767692373926 HTTP/1.1[0m" 206 -
+2026-01-06 15:09:35,781 - __main__ - INFO - Event processed: Tray 53343, half, SHUBHAM - Count: 428
+2026-01-06 15:09:36,150 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:09:36] "[35m[1mGET /audio/half_shubham.wav?1767692375939 HTTP/1.1[0m" 206 -
+2026-01-06 15:09:37,284 - __main__ - INFO - Event processed: Tray 53344, half, SHUBHAM - Count: 429
+2026-01-06 15:09:38,025 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:09:38] "[35m[1mGET /audio/half_shubham.wav?1767692377808 HTTP/1.1[0m" 206 -
+2026-01-06 15:09:40,787 - __main__ - INFO - Event processed: Tray 53345, one, SHUBHAM - Count: 350
+2026-01-06 15:09:41,173 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:09:41] "[35m[1mGET /audio/one_shubham.wav?1767692380945 HTTP/1.1[0m" 206 -
+2026-01-06 15:09:43,289 - __main__ - INFO - Event processed: Tray 53346, one, SHUBHAM - Count: 351
+2026-01-06 15:09:43,682 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:09:43] "[35m[1mGET /audio/one_shubham.wav?1767692383451 HTTP/1.1[0m" 206 -
+2026-01-06 15:09:44,791 - __main__ - INFO - Event processed: Tray 53347, half, SHUBHAM - Count: 430
+2026-01-06 15:09:45,919 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:09:45] "[35m[1mGET /audio/half_shubham.wav?1767692385752 HTTP/1.1[0m" 206 -
+2026-01-06 15:09:56,298 - __main__ - INFO - Event processed: Tray 53348, half, SHUBHAM - Count: 431
+2026-01-06 15:09:56,589 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:09:56] "[35m[1mGET /audio/half_shubham.wav?1767692396425 HTTP/1.1[0m" 206 -
+2026-01-06 15:10:01,301 - __main__ - INFO - Event processed: Tray 53349, one, SHUBHAM - Count: 352
+2026-01-06 15:10:01,670 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:10:01] "[35m[1mGET /audio/one_shubham.wav?1767692401424 HTTP/1.1[0m" 206 -
+2026-01-06 15:10:05,304 - __main__ - INFO - Event processed: Tray 53350, one, SHUBHAM - Count: 353
+2026-01-06 15:10:05,584 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:10:05] "[35m[1mGET /audio/one_shubham.wav?1767692405423 HTTP/1.1[0m" 206 -
+2026-01-06 15:10:06,806 - __main__ - INFO - Event processed: Tray 53351, half, SHUBHAM - Count: 432
+2026-01-06 15:10:07,482 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:10:07] "[35m[1mGET /audio/half_shubham.wav?1767692407254 HTTP/1.1[0m" 206 -
+2026-01-06 15:11:24,260 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 4, Port: 5004
+2026-01-06 15:11:24,263 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 15:11:24,263 - __main__ - INFO - State loaded | inode=18091567 offset=8963211
+2026-01-06 15:11:24,264 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_4.log
+2026-01-06 15:11:24,264 - __main__ - INFO - Background threads started
+2026-01-06 15:11:24,264 - __main__ - INFO - Dashboard available at: http://localhost:5004
+2026-01-06 15:11:24,271 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://192.168.0.115:5004
+2026-01-06 15:11:24,271 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 15:11:24,272 - __main__ - INFO - Caught up to live log
+2026-01-06 15:11:25,979 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:11:25] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:11:32,777 - __main__ - INFO - Event processed: Tray 53370, one, SHUBHAM - Count: 361
+2026-01-06 15:11:33,025 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:11:33] "[35m[1mGET /audio/one_shubham.wav?1767692492864 HTTP/1.1[0m" 206 -
+2026-01-06 15:11:34,279 - __main__ - INFO - Event processed: Tray 53371, half, SHUBHAM - Count: 443
+2026-01-06 15:11:34,920 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:11:34] "[35m[1mGET /audio/half_shubham.wav?1767692494695 HTTP/1.1[0m" 206 -
+2026-01-06 15:11:35,291 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:11:35,298 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:11:35] "GET / HTTP/1.1" 200 -
+2026-01-06 15:11:35,349 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:11:35] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:11:35,351 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:11:35] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:11:35,352 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:11:35] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:11:35,388 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:11:35] "[35m[1mGET /audio/half_shubham.wav?1767692495351 HTTP/1.1[0m" 206 -
+2026-01-06 15:11:35,781 - __main__ - INFO - Event processed: Tray 53372, half, SHUBHAM - Count: 444
+2026-01-06 15:11:35,862 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:11:35] "[35m[1mGET /audio/half_shubham.wav?1767692495846 HTTP/1.1[0m" 206 -
+2026-01-06 15:11:36,685 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:11:36] "[35m[1mGET /audio/half_shubham.wav?1767692496513 HTTP/1.1[0m" 206 -
+2026-01-06 15:11:38,283 - __main__ - INFO - Event processed: Tray 53373, one, SHUBHAM - Count: 362
+2026-01-06 15:11:38,369 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:11:38] "[35m[1mGET /audio/one_shubham.wav?1767692498347 HTTP/1.1[0m" 206 -
+2026-01-06 15:11:38,594 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:11:38] "[35m[1mGET /audio/one_shubham.wav?1767692498385 HTTP/1.1[0m" 206 -
+2026-01-06 15:11:48,789 - __main__ - INFO - Event processed: Tray 53374, half, SHUBHAM - Count: 445
+2026-01-06 15:11:48,894 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:11:48] "[35m[1mGET /audio/half_shubham.wav?1767692508878 HTTP/1.1[0m" 206 -
+2026-01-06 15:11:49,089 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:11:49] "[35m[1mGET /audio/half_shubham.wav?1767692508873 HTTP/1.1[0m" 206 -
+2026-01-06 15:11:52,792 - __main__ - INFO - Event processed: Tray 53375, one, SHUBHAM - Count: 363
+2026-01-06 15:11:52,897 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:11:52] "[35m[1mGET /audio/one_shubham.wav?1767692512880 HTTP/1.1[0m" 206 -
+2026-01-06 15:11:53,097 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:11:53] "[35m[1mGET /audio/one_shubham.wav?1767692512870 HTTP/1.1[0m" 206 -
+2026-01-06 15:11:57,295 - __main__ - INFO - Event processed: Tray 53376, one, SHUBHAM - Count: 364
+2026-01-06 15:11:57,393 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:11:57] "[35m[1mGET /audio/one_shubham.wav?1767692517378 HTTP/1.1[0m" 206 -
+2026-01-06 15:11:57,554 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:11:57] "[35m[1mGET /audio/one_shubham.wav?1767692517374 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:02,299 - __main__ - INFO - Event processed: Tray 53377, half, SHUBHAM - Count: 446
+2026-01-06 15:12:02,400 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:02] "[35m[1mGET /audio/half_shubham.wav?1767692522380 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:02,606 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:12:02] "[35m[1mGET /audio/half_shubham.wav?1767692522383 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:04,802 - __main__ - INFO - Event processed: Tray 53378, half, SHUBHAM - Count: 447
+2026-01-06 15:12:04,903 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:04] "[35m[1mGET /audio/half_shubham.wav?1767692524883 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:05,058 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:12:05] "[35m[1mGET /audio/half_shubham.wav?1767692524883 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:09,306 - __main__ - INFO - Event processed: Tray 53379, half, SHUBHAM - Count: 448
+2026-01-06 15:12:09,400 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:09] "[35m[1mGET /audio/half_shubham.wav?1767692529383 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:09,554 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:12:09] "[35m[1mGET /audio/half_shubham.wav?1767692529385 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:10,808 - __main__ - INFO - Event processed: Tray 53380, half, SHUBHAM - Count: 449
+2026-01-06 15:12:10,895 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:10] "[35m[1mGET /audio/half_shubham.wav?1767692530880 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:11,319 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:12:11] "[35m[1mGET /audio/half_shubham.wav?1767692531154 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:14,096 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:14,100 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:14] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:14,124 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:14] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:14,126 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:14] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:14,128 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:14] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:14,164 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:14] "[35m[1mGET /audio/half_shubham.wav?1767692534141 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:14,353 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:14,361 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:14] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:14,407 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:14] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:14,408 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:14] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:14,411 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:14] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:14,433 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:14] "[35m[1mGET /audio/half_shubham.wav?1767692534415 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:15,118 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:15,122 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:15,146 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:15,147 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:15,149 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:15,166 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "[35m[1mGET /audio/half_shubham.wav?1767692535145 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:15,405 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:15,409 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:15,434 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:15,437 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:15,438 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:15,451 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "[35m[1mGET /audio/half_shubham.wav?1767692535434 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:15,600 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:15,605 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:15,627 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:15,628 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:15,630 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:15,659 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "[35m[1mGET /audio/half_shubham.wav?1767692535641 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:15,812 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:15,817 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:15,850 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:15,851 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:15,853 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:15,885 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:15] "[35m[1mGET /audio/half_shubham.wav?1767692535850 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:16,218 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:16,222 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:16,251 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:16,252 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:16,253 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:16,267 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "[35m[1mGET /audio/half_shubham.wav?1767692536251 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:16,546 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:16,551 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:16,576 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:16,577 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:16,579 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:16,601 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "[35m[1mGET /audio/half_shubham.wav?1767692536585 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:16,721 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:16,725 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:16,753 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:16,755 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:16,757 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:16,770 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "[35m[1mGET /audio/half_shubham.wav?1767692536754 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:16,917 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:16,921 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:16,937 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:16,940 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:16,940 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:16,957 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:16] "[35m[1mGET /audio/half_shubham.wav?1767692536938 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:17,101 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:17,105 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:17] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:17,124 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:17] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:17,126 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:17] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:17,127 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:17] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:17,146 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:17] "[35m[1mGET /audio/half_shubham.wav?1767692537134 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:17,276 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:17,279 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:17] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:17,304 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:17] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:17,305 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:17] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:17,306 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:17] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:17,312 - __main__ - INFO - Event processed: Tray 53381, one, SHUBHAM - Count: 365
+2026-01-06 15:12:17,331 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:17] "[35m[1mGET /audio/half_shubham.wav?1767692537309 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:17,544 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:17,548 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:17] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:17,574 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:17] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:17,576 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:17] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:17,577 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:17] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:17,599 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:17] "[35m[1mGET /audio/one_shubham.wav?1767692537584 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:17,640 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:12:17] "[35m[1mGET /audio/one_shubham.wav?1767692537424 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:18,073 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:18,076 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:18] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:18,102 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:18] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:18,103 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:18] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:18,104 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:18] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:18,110 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:18] "[35m[1mGET /audio/one_shubham.wav?1767692538099 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:21,315 - __main__ - INFO - Event processed: Tray 53382, one, SHUBHAM - Count: 366
+2026-01-06 15:12:21,619 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:21] "[35m[1mGET /audio/one_shubham.wav?1767692541601 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:21,671 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:12:21] "[35m[1mGET /audio/one_shubham.wav?1767692541449 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:27,319 - __main__ - INFO - Event processed: Tray 53384, half, SHUBHAM - Count: 450
+2026-01-06 15:12:27,584 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:12:27] "[35m[1mGET /audio/half_shubham.wav?1767692547410 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:27,637 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:27] "[35m[1mGET /audio/half_shubham.wav?1767692547616 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:28,221 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:28,224 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:28] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:28,257 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:28] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:28,258 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:28] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:28,259 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:28] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:28,279 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:28] "[35m[1mGET /audio/half_shubham.wav?1767692548264 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:36,325 - __main__ - INFO - Event processed: Tray 53385, one, SHUBHAM - Count: 367
+2026-01-06 15:12:36,591 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:12:36] "[35m[1mGET /audio/one_shubham.wav?1767692556423 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:36,775 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:36] "[35m[1mGET /audio/one_shubham.wav?1767692556762 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:40,828 - __main__ - INFO - Event processed: Tray 53386, half, SHUBHAM - Count: 451
+2026-01-06 15:12:41,094 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:12:41] "[35m[1mGET /audio/half_shubham.wav?1767692560921 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:41,278 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:41] "[35m[1mGET /audio/half_shubham.wav?1767692561264 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:42,330 - __main__ - INFO - Event processed: Tray 53387, half, SHUBHAM - Count: 452
+2026-01-06 15:12:42,778 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:42] "[35m[1mGET /audio/half_shubham.wav?1767692562764 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:42,917 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:12:42] "[35m[1mGET /audio/half_shubham.wav?1767692562753 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:44,833 - __main__ - INFO - Event processed: Tray 53389, one, SHUBHAM - Count: 368
+2026-01-06 15:12:45,195 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:12:45] "[35m[1mGET /audio/one_shubham.wav?1767692564985 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:45,279 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:45] "[35m[1mGET /audio/one_shubham.wav?1767692565266 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:47,836 - __main__ - INFO - Event processed: Tray 53390, half, SHUBHAM - Count: 453
+2026-01-06 15:12:48,168 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:12:48] "[35m[1mGET /audio/half_shubham.wav?1767692567951 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:48,289 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:48] "[35m[1mGET /audio/half_shubham.wav?1767692568269 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:49,338 - __main__ - INFO - Event processed: Tray 53391, half, SHUBHAM - Count: 454
+2026-01-06 15:12:49,791 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:49] "[35m[1mGET /audio/half_shubham.wav?1767692569770 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:49,924 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:12:49] "[35m[1mGET /audio/half_shubham.wav?1767692569766 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:54,102 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:54,111 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:54] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:54,149 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:54] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:54,152 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:54] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:54,153 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:54] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:54,188 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:54] "[35m[1mGET /audio/half_shubham.wav?1767692574165 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:54,479 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:54,485 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:54] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:54,513 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:54] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:54,513 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:54] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:54,522 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:54] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:54,558 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:54] "[35m[1mGET /audio/half_shubham.wav?1767692574540 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:54,646 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:12:54,654 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:54] "GET / HTTP/1.1" 200 -
+2026-01-06 15:12:54,690 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:54] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:12:54,691 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:54] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:12:54,700 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:54] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:12:54,740 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:54] "[35m[1mGET /audio/half_shubham.wav?1767692574718 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:58,844 - __main__ - INFO - Event processed: Tray 53392, one, SHUBHAM - Count: 369
+2026-01-06 15:12:59,192 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:12:59] "[35m[1mGET /audio/one_shubham.wav?1767692578967 HTTP/1.1[0m" 206 -
+2026-01-06 15:12:59,245 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:12:59] "[35m[1mGET /audio/one_shubham.wav?1767692579220 HTTP/1.1[0m" 206 -
+2026-01-06 15:13:05,848 - __main__ - INFO - Event processed: Tray 53393, half, SHUBHAM - Count: 455
+2026-01-06 15:13:06,175 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:13:06] "[35m[1mGET /audio/half_shubham.wav?1767692585954 HTTP/1.1[0m" 206 -
+2026-01-06 15:13:07,851 - __main__ - INFO - Event processed: Tray 53394, half, SHUBHAM - Count: 456
+2026-01-06 15:13:08,168 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:13:08] "[35m[1mGET /audio/half_shubham.wav?1767692587946 HTTP/1.1[0m" 206 -
+2026-01-06 15:13:09,353 - __main__ - INFO - Event processed: Tray 53395, one, SHUBHAM - Count: 370
+2026-01-06 15:13:10,254 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:13:10] "[35m[1mGET /audio/one_shubham.wav?1767692590100 HTTP/1.1[0m" 206 -
+2026-01-06 15:13:17,358 - __main__ - INFO - Event processed: Tray 53396, half, SHUBHAM - Count: 457
+2026-01-06 15:13:17,669 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:13:17] "[35m[1mGET /audio/half_shubham.wav?1767692597443 HTTP/1.1[0m" 206 -
+2026-01-06 15:13:20,861 - __main__ - INFO - Event processed: Tray 53397, half, SHUBHAM - Count: 458
+2026-01-06 15:13:21,250 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:13:21] "[35m[1mGET /audio/half_shubham.wav?1767692601028 HTTP/1.1[0m" 206 -
+2026-01-06 15:13:23,363 - __main__ - INFO - Event processed: Tray 53398, one, SHUBHAM - Count: 371
+2026-01-06 15:13:23,605 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:13:23] "[35m[1mGET /audio/one_shubham.wav?1767692603444 HTTP/1.1[0m" 206 -
+2026-01-06 15:13:25,366 - __main__ - INFO - Event processed: Tray 53399, half, SHUBHAM - Count: 459
+2026-01-06 15:13:25,682 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:13:25] "[35m[1mGET /audio/half_shubham.wav?1767692605457 HTTP/1.1[0m" 206 -
+2026-01-06 15:13:34,371 - __main__ - INFO - Event processed: Tray 53400, one, SHUBHAM - Count: 372
+2026-01-06 15:13:34,722 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:13:34] "[35m[1mGET /audio/one_shubham.wav?1767692614485 HTTP/1.1[0m" 206 -
+2026-01-06 15:13:42,876 - __main__ - INFO - Event processed: Tray 53401, half, SHUBHAM - Count: 460
+2026-01-06 15:13:43,222 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:13:43] "[35m[1mGET /audio/half_shubham.wav?1767692623000 HTTP/1.1[0m" 206 -
+2026-01-06 15:13:45,879 - __main__ - INFO - Event processed: Tray 53403, one, SHUBHAM - Count: 373
+2026-01-06 15:13:46,235 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:13:46] "[35m[1mGET /audio/one_shubham.wav?1767692626000 HTTP/1.1[0m" 206 -
+2026-01-06 15:13:50,383 - __main__ - INFO - Event processed: Tray 53404, half, SHUBHAM - Count: 461
+2026-01-06 15:13:50,686 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:13:50] "[35m[1mGET /audio/half_shubham.wav?1767692630459 HTTP/1.1[0m" 206 -
+2026-01-06 15:13:57,887 - __main__ - INFO - Event processed: Tray 53406, half, SHUBHAM - Count: 462
+2026-01-06 15:13:58,222 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:13:58] "[35m[1mGET /audio/half_shubham.wav?1767692637989 HTTP/1.1[0m" 206 -
+2026-01-06 15:14:01,890 - __main__ - INFO - Event processed: Tray 53407, one, SHUBHAM - Count: 374
+2026-01-06 15:14:02,225 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:14:02] "[35m[1mGET /audio/one_shubham.wav?1767692642004 HTTP/1.1[0m" 206 -
+2026-01-06 15:14:05,392 - __main__ - INFO - Event processed: Tray 53408, one, SHUBHAM - Count: 375
+2026-01-06 15:14:05,720 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:14:05] "[35m[1mGET /audio/one_shubham.wav?1767692645504 HTTP/1.1[0m" 206 -
+2026-01-06 15:14:07,394 - __main__ - INFO - Event processed: Tray 53409, half, SHUBHAM - Count: 463
+2026-01-06 15:14:07,746 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:14:07] "[35m[1mGET /audio/half_shubham.wav?1767692647523 HTTP/1.1[0m" 206 -
+2026-01-06 15:14:17,900 - __main__ - INFO - Event processed: Tray 53410, one, SHUBHAM - Count: 376
+2026-01-06 15:14:18,251 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:14:18] "[35m[1mGET /audio/one_shubham.wav?1767692658024 HTTP/1.1[0m" 206 -
+2026-01-06 15:14:19,402 - __main__ - INFO - Event processed: Tray 53411, half, SHUBHAM - Count: 464
+2026-01-06 15:14:19,961 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:14:19] "[35m[1mGET /audio/half_shubham.wav?1767692659794 HTTP/1.1[0m" 206 -
+2026-01-06 15:14:21,405 - __main__ - INFO - Event processed: Tray 53412, half, SHUBHAM - Count: 465
+2026-01-06 15:14:22,150 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:14:22] "[35m[1mGET /audio/half_shubham.wav?1767692661919 HTTP/1.1[0m" 206 -
+2026-01-06 15:14:23,907 - __main__ - INFO - Event processed: Tray 53413, one, SHUBHAM - Count: 377
+2026-01-06 15:14:24,342 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:14:24] "[35m[1mGET /audio/one_shubham.wav?1767692664179 HTTP/1.1[0m" 206 -
+2026-01-06 15:14:26,910 - __main__ - INFO - Event processed: Tray 53414, half, SHUBHAM - Count: 466
+2026-01-06 15:14:27,210 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:14:27] "[35m[1mGET /audio/half_shubham.wav?1767692666981 HTTP/1.1[0m" 206 -
+2026-01-06 15:14:33,914 - __main__ - INFO - Event processed: Tray 53415, one, SHUBHAM - Count: 378
+2026-01-06 15:14:34,263 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:14:34] "[35m[1mGET /audio/one_shubham.wav?1767692674006 HTTP/1.1[0m" 206 -
+2026-01-06 15:14:36,917 - __main__ - INFO - Event processed: Tray 53416, half, SHUBHAM - Count: 467
+2026-01-06 15:14:37,368 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:14:37] "[35m[1mGET /audio/half_shubham.wav?1767692677105 HTTP/1.1[0m" 206 -
+2026-01-06 15:14:43,921 - __main__ - INFO - Event processed: Tray 53417, half, SHUBHAM - Count: 468
+2026-01-06 15:14:44,200 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:14:44] "[35m[1mGET /audio/half_shubham.wav?1767692684024 HTTP/1.1[0m" 206 -
+2026-01-06 15:14:48,925 - __main__ - INFO - Event processed: Tray 53418, one, SHUBHAM - Count: 379
+2026-01-06 15:14:49,206 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:14:49] "[35m[1mGET /audio/one_shubham.wav?1767692689019 HTTP/1.1[0m" 206 -
+2026-01-06 15:14:50,427 - __main__ - INFO - Event processed: Tray 53419, half, SHUBHAM - Count: 469
+2026-01-06 15:14:51,449 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:14:51] "[35m[1mGET /audio/half_shubham.wav?1767692691199 HTTP/1.1[0m" 206 -
+2026-01-06 15:14:53,430 - __main__ - INFO - Event processed: Tray 53420, one, SHUBHAM - Count: 380
+2026-01-06 15:14:53,789 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:14:53] "[35m[1mGET /audio/one_shubham.wav?1767692693562 HTTP/1.1[0m" 206 -
+2026-01-06 15:15:00,934 - __main__ - INFO - Event processed: Tray 53421, half, SHUBHAM - Count: 470
+2026-01-06 15:15:01,320 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:15:01] "[35m[1mGET /audio/half_shubham.wav?1767692701038 HTTP/1.1[0m" 206 -
+2026-01-06 15:15:02,436 - __main__ - INFO - Event processed: Tray 53422, half, SHUBHAM - Count: 471
+2026-01-06 15:15:03,400 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:15:03] "[35m[1mGET /audio/half_shubham.wav?1767692703232 HTTP/1.1[0m" 206 -
+2026-01-06 15:15:04,376 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:15:04,379 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:15:04] "GET / HTTP/1.1" 200 -
+2026-01-06 15:15:04,654 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:15:04] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:15:04,656 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:15:04] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:15:04,688 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:15:04] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:15:04,855 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:15:04] "[35m[1mGET /audio/half_shubham.wav?1767692704671 HTTP/1.1[0m" 206 -
+2026-01-06 15:15:10,941 - __main__ - INFO - Event processed: Tray 53423, one, SHUBHAM - Count: 381
+2026-01-06 15:15:11,346 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:15:11] "[35m[1mGET /audio/one_shubham.wav?1767692711098 HTTP/1.1[0m" 206 -
+2026-01-06 15:15:12,943 - __main__ - INFO - Event processed: Tray 53424, one, SHUBHAM - Count: 382
+2026-01-06 15:15:13,544 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:15:13] "[35m[1mGET /audio/one_shubham.wav?1767692713256 HTTP/1.1[0m" 206 -
+2026-01-06 15:15:14,945 - __main__ - INFO - Event processed: Tray 53425, half, SHUBHAM - Count: 472
+2026-01-06 15:15:15,748 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:15:15] "[35m[1mGET /audio/half_shubham.wav?1767692715509 HTTP/1.1[0m" 206 -
+2026-01-06 15:15:22,950 - __main__ - INFO - Event processed: Tray 53426, one, SHUBHAM - Count: 383
+2026-01-06 15:15:23,325 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:15:23] "[35m[1mGET /audio/one_shubham.wav?1767692723122 HTTP/1.1[0m" 206 -
+2026-01-06 15:15:26,954 - __main__ - INFO - Event processed: Tray 53427, half, SHUBHAM - Count: 473
+2026-01-06 15:15:27,262 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:15:27] "[35m[1mGET /audio/half_shubham.wav?1767692727096 HTTP/1.1[0m" 206 -
+2026-01-06 15:15:29,456 - __main__ - INFO - Event processed: Tray 53428, half, SHUBHAM - Count: 474
+2026-01-06 15:15:29,817 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:15:29] "[35m[1mGET /audio/half_shubham.wav?1767692729595 HTTP/1.1[0m" 206 -
+2026-01-06 15:15:39,462 - __main__ - INFO - Event processed: Tray 53429, half, SHUBHAM - Count: 475
+2026-01-06 15:15:39,858 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:15:39] "[35m[1mGET /audio/half_shubham.wav?1767692739643 HTTP/1.1[0m" 206 -
+2026-01-06 15:17:16,449 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 4, Port: 5004
+2026-01-06 15:17:16,452 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 15:17:16,452 - __main__ - INFO - State loaded | inode=18091567 offset=8975833
+2026-01-06 15:17:16,453 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_4.log
+2026-01-06 15:17:16,453 - __main__ - INFO - Background threads started
+2026-01-06 15:17:16,453 - __main__ - INFO - Dashboard available at: http://localhost:5004
+2026-01-06 15:17:16,453 - __main__ - INFO - Caught up to live log
+2026-01-06 15:17:16,457 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://192.168.0.115:5004
+2026-01-06 15:17:16,457 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 15:17:17,057 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:17:17] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:17:25,598 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:17:25,603 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:17:25] "GET / HTTP/1.1" 200 -
+2026-01-06 15:17:25,844 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:17:25] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:17:25,846 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:17:25] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:17:25,927 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:17:25] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:17:35,306 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:17:35,312 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:17:35] "GET / HTTP/1.1" 200 -
+2026-01-06 15:17:35,346 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:17:35] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:17:35,347 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:17:35] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:17:35,348 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:17:35] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:21:44,886 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 4, Port: 5004
+2026-01-06 15:21:44,889 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 15:21:44,889 - __main__ - INFO - State loaded | inode=18091567 offset=8975833
+2026-01-06 15:21:44,889 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_4.log
+2026-01-06 15:21:44,890 - __main__ - INFO - Background threads started
+2026-01-06 15:21:44,890 - __main__ - INFO - Dashboard available at: http://localhost:5004
+2026-01-06 15:21:44,891 - __main__ - INFO - Caught up to live log
+2026-01-06 15:21:44,894 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://192.168.0.115:5004
+2026-01-06 15:21:44,894 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 15:21:47,533 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:21:47] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:21:55,765 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:21:55,769 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:55] "GET / HTTP/1.1" 200 -
+2026-01-06 15:21:55,818 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:55] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:21:55,820 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:55] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:21:55,823 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:55] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:21:59,174 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:21:59,177 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:59] "GET / HTTP/1.1" 200 -
+2026-01-06 15:21:59,217 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:59] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:21:59,218 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:59] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:21:59,219 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:59] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:21:59,383 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:21:59,390 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:59] "GET / HTTP/1.1" 200 -
+2026-01-06 15:21:59,419 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:59] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:21:59,421 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:59] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:21:59,423 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:59] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:21:59,603 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:21:59,611 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:59] "GET / HTTP/1.1" 200 -
+2026-01-06 15:21:59,638 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:59] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:21:59,639 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:59] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:21:59,641 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:59] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:21:59,812 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:21:59,817 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:59] "GET / HTTP/1.1" 200 -
+2026-01-06 15:21:59,851 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:59] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:21:59,852 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:59] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:21:59,853 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:21:59] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:22:00,007 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:22:00,010 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:00] "GET / HTTP/1.1" 200 -
+2026-01-06 15:22:00,060 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:00] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:22:00,061 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:00] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:22:00,073 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:00] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:22:00,458 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:22:00,461 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:00] "GET / HTTP/1.1" 200 -
+2026-01-06 15:22:00,517 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:00] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:22:00,518 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:00] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:22:00,519 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:00] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:22:00,707 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:22:00,710 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:00] "GET / HTTP/1.1" 200 -
+2026-01-06 15:22:00,746 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:00] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:22:00,747 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:00] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:22:00,749 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:00] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:22:00,950 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:22:00,957 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:00] "GET / HTTP/1.1" 200 -
+2026-01-06 15:22:00,983 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:00] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:22:00,985 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:00] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:22:00,997 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:00] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:22:01,145 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:22:01,151 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:01] "GET / HTTP/1.1" 200 -
+2026-01-06 15:22:01,175 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:01] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:22:01,178 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:01] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:22:01,179 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:01] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:22:01,430 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:22:01,434 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:01] "GET / HTTP/1.1" 200 -
+2026-01-06 15:22:01,482 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:01] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:22:01,484 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:01] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:22:01,487 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:01] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:22:01,639 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:22:01,646 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:01] "GET / HTTP/1.1" 200 -
+2026-01-06 15:22:01,679 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:01] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:22:01,680 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:01] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:22:01,681 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:01] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:22:01,883 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:22:01,888 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:01] "GET / HTTP/1.1" 200 -
+2026-01-06 15:22:01,913 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:01] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:22:01,917 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:01] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:22:01,918 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:22:01] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:25:53,612 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 4, Port: 5004
+2026-01-06 15:25:53,615 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 15:25:53,615 - __main__ - INFO - State loaded | inode=18091567 offset=8975833
+2026-01-06 15:25:53,615 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_4.log
+2026-01-06 15:25:53,616 - __main__ - INFO - Background threads started
+2026-01-06 15:25:53,616 - __main__ - INFO - Caught up to live log
+2026-01-06 15:25:53,617 - __main__ - INFO - Dashboard available at: http://localhost:5004
+2026-01-06 15:25:53,625 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://192.168.0.115:5004
+2026-01-06 15:25:53,626 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 15:25:56,267 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:25:56] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:25:58,301 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:25:58] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:26:18,594 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:26:18,601 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:18] "GET / HTTP/1.1" 200 -
+2026-01-06 15:26:18,633 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:18] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:26:18,634 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:18] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:26:18,635 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:18] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:26:19,173 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:26:19,179 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:19] "GET / HTTP/1.1" 200 -
+2026-01-06 15:26:19,217 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:19] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:26:19,220 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:19] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:26:19,220 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:19] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:26:19,385 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:26:19,388 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:19] "GET / HTTP/1.1" 200 -
+2026-01-06 15:26:19,418 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:19] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:26:19,420 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:19] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:26:19,421 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:19] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:26:19,793 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:26:19,796 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:19] "GET / HTTP/1.1" 200 -
+2026-01-06 15:26:19,828 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:19] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:26:19,830 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:19] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:26:19,834 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:19] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:26:20,044 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:26:20,047 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:20] "GET / HTTP/1.1" 200 -
+2026-01-06 15:26:20,097 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:20] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:26:20,097 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:20] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:26:20,098 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:20] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:26:20,304 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:26:20,310 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:20] "GET / HTTP/1.1" 200 -
+2026-01-06 15:26:20,344 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:20] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:26:20,345 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:20] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:26:20,346 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:20] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:26:20,510 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:26:20,513 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:20] "GET / HTTP/1.1" 200 -
+2026-01-06 15:26:20,550 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:20] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:26:20,553 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:20] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:26:20,554 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:20] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:26:20,731 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:26:20,734 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:20] "GET / HTTP/1.1" 200 -
+2026-01-06 15:26:20,763 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:20] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:26:20,764 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:20] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:26:20,766 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:20] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:26:45,058 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:26:45,064 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:45] "GET / HTTP/1.1" 200 -
+2026-01-06 15:26:45,101 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:45] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:26:45,103 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:45] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:26:45,124 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:26:45] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:09,121 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 4, Port: 5004
+2026-01-06 15:28:09,124 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 15:28:09,124 - __main__ - INFO - State loaded | inode=18091567 offset=8975833
+2026-01-06 15:28:09,124 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_4.log
+2026-01-06 15:28:09,125 - __main__ - INFO - Background threads started
+2026-01-06 15:28:09,125 - __main__ - INFO - Dashboard available at: http://localhost:5004
+2026-01-06 15:28:09,126 - __main__ - INFO - Caught up to live log
+2026-01-06 15:28:09,129 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://192.168.0.115:5004
+2026-01-06 15:28:09,129 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 15:28:10,289 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:28:10] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:10,838 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:28:10] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:39,577 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:28:39,582 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:39] "GET / HTTP/1.1" 200 -
+2026-01-06 15:28:39,609 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:39] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:28:39,610 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:39] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:28:39,691 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:39] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:39,843 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-06 15:28:42,426 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:28:42,430 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:42] "GET / HTTP/1.1" 200 -
+2026-01-06 15:28:42,457 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:42] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:28:42,458 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:42] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:28:42,460 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:42] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:42,644 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:28:42,648 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:42] "GET / HTTP/1.1" 200 -
+2026-01-06 15:28:42,664 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:42] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:28:42,670 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:42] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:28:42,671 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:42] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:42,777 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-06 15:28:42,860 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:28:42,866 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:42] "GET / HTTP/1.1" 200 -
+2026-01-06 15:28:42,885 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:42] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:28:42,887 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:42] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:28:42,887 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:42] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:43,060 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:28:43,065 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "GET / HTTP/1.1" 200 -
+2026-01-06 15:28:43,086 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:28:43,087 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:28:43,088 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:43,260 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:28:43,263 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "GET / HTTP/1.1" 200 -
+2026-01-06 15:28:43,288 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:28:43,289 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:28:43,291 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:43,445 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:28:43,450 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "GET / HTTP/1.1" 200 -
+2026-01-06 15:28:43,463 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:28:43,464 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:28:43,468 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:43,607 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:28:43,611 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "GET / HTTP/1.1" 200 -
+2026-01-06 15:28:43,630 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:28:43,634 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:28:43,638 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:43,803 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:28:43,811 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "GET / HTTP/1.1" 200 -
+2026-01-06 15:28:43,836 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:28:43,838 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:28:43,840 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:43,926 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:28:43,929 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "GET / HTTP/1.1" 200 -
+2026-01-06 15:28:43,945 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:28:43,947 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:28:43,951 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:43] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:44,092 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:28:44,095 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:44] "GET / HTTP/1.1" 200 -
+2026-01-06 15:28:44,121 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:44] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:28:44,122 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:44] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:28:44,123 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:44] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:44,230 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:28:44,233 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:44] "GET / HTTP/1.1" 200 -
+2026-01-06 15:28:44,245 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:44] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:28:44,246 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:44] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:28:44,251 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:44] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:44,392 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:28:44,399 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:44] "GET / HTTP/1.1" 200 -
+2026-01-06 15:28:44,417 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:44] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:28:44,419 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:44] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:28:44,421 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:44] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:44,543 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:28:44,548 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:44] "GET / HTTP/1.1" 200 -
+2026-01-06 15:28:44,574 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:44] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:28:44,575 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:44] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:28:44,577 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:44] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:45,094 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:28:45,100 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:45] "GET / HTTP/1.1" 200 -
+2026-01-06 15:28:45,121 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:45] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:28:45,122 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:45] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:28:45,123 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:45] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:28:45,370 - __main__ - INFO - Dashboard accessed for conveyor 4
+2026-01-06 15:28:45,375 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:45] "GET / HTTP/1.1" 200 -
+2026-01-06 15:28:45,393 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:45] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:28:45,394 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:45] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:28:45,395 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:28:45] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:48:18,984 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 4, Port: 5004
+2026-01-06 15:48:18,984 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 2, Port: 5002
+2026-01-06 15:48:18,986 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 15:48:18,987 - __main__ - INFO - State loaded | inode=18091567 offset=8975833
+2026-01-06 15:48:18,987 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 15:48:18,987 - __main__ - INFO - State loaded | inode=18121195 offset=21723297
+2026-01-06 15:48:18,987 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_4.log
+2026-01-06 15:48:18,988 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_2.log
+2026-01-06 15:48:18,988 - __main__ - INFO - Background threads started
+2026-01-06 15:48:18,988 - __main__ - INFO - Dashboard available at: http://localhost:5004
+2026-01-06 15:48:18,988 - __main__ - INFO - Caught up to live log
+2026-01-06 15:48:18,988 - __main__ - INFO - Background threads started
+2026-01-06 15:48:18,988 - __main__ - INFO - Dashboard available at: http://localhost:5002
+2026-01-06 15:48:18,988 - __main__ - INFO - Caught up to live log
+2026-01-06 15:48:18,992 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://192.168.0.115:5004
+2026-01-06 15:48:18,992 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.0.115:5002
+2026-01-06 15:48:18,992 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 15:48:18,992 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 15:48:18,996 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 5, Port: 5005
+2026-01-06 15:48:18,999 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 15:48:18,999 - __main__ - INFO - State ignored (new day)
+2026-01-06 15:48:19,000 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_5.log
+2026-01-06 15:48:19,000 - __main__ - INFO - Background threads started
+2026-01-06 15:48:19,000 - __main__ - INFO - Dashboard available at: http://localhost:5005
+2026-01-06 15:48:19,004 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5005
+ * Running on http://192.168.0.115:5005
+2026-01-06 15:48:19,005 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 15:48:19,028 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 1, Port: 5001
+2026-01-06 15:48:19,033 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 15:48:19,033 - __main__ - INFO - State loaded | inode=18121198 offset=17249840
+2026-01-06 15:48:19,034 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_1.log
+2026-01-06 15:48:19,035 - __main__ - INFO - Caught up to live log
+2026-01-06 15:48:19,035 - __main__ - INFO - Background threads started
+2026-01-06 15:48:19,035 - __main__ - INFO - Dashboard available at: http://localhost:5001
+2026-01-06 15:48:19,041 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.115:5001
+2026-01-06 15:48:19,041 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 15:48:19,776 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:48:19] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:48:20,016 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:48:20] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:48:23,002 - __main__ - INFO - Event processed: Tray 87305, empty, CURD - Count: 1
+2026-01-06 15:48:23,052 - __main__ - INFO - Created Kannada audio: empty ಮೊಸರು -> empty_curd.wav
+2026-01-06 15:48:26,005 - __main__ - INFO - Event processed: Tray 87307, empty, CURD - Count: 2
+2026-01-06 15:48:28,007 - __main__ - INFO - Event processed: Tray 87308, empty, CURD - Count: 3
+2026-01-06 15:48:30,009 - __main__ - INFO - Event processed: Tray 87309, empty, CURD - Count: 4
+2026-01-06 15:48:31,511 - __main__ - INFO - Event processed: Tray 87310, empty, CURD - Count: 5
+2026-01-06 15:48:33,041 - __main__ - INFO - Event processed: Tray 100180, half, TONED - Count: 1451
+2026-01-06 15:48:33,514 - __main__ - INFO - Event processed: Tray 87311, empty, CURD - Count: 6
+2026-01-06 15:48:35,016 - __main__ - INFO - Event processed: Tray 87312, empty, CURD - Count: 7
+2026-01-06 15:48:37,018 - __main__ - INFO - Event processed: Tray 87313, empty, CURD - Count: 8
+2026-01-06 15:48:39,020 - __main__ - INFO - Event processed: Tray 87314, empty, CURD - Count: 9
+2026-01-06 15:48:40,522 - __main__ - INFO - Event processed: Tray 87315, empty, CURD - Count: 10
+2026-01-06 15:48:40,997 - __main__ - INFO - Event processed: Tray 128338, half, TONED - Count: 549
+2026-01-06 15:48:41,357 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:48:41] "[35m[1mGET /audio/half_toned.wav?1767694721174 HTTP/1.1[0m" 206 -
+2026-01-06 15:48:42,025 - __main__ - INFO - Event processed: Tray 87316, empty, CURD - Count: 11
+2026-01-06 15:48:43,527 - __main__ - INFO - Event processed: Tray 87317, empty, CURD - Count: 12
+2026-01-06 15:48:45,529 - __main__ - INFO - Event processed: Tray 87318, empty, CURD - Count: 13
+2026-01-06 15:48:47,531 - __main__ - INFO - Event processed: Tray 87319, empty, CURD - Count: 14
+2026-01-06 15:48:49,533 - __main__ - INFO - Event processed: Tray 87320, empty, CURD - Count: 15
+2026-01-06 15:48:51,535 - __main__ - INFO - Event processed: Tray 87321, empty, CURD - Count: 16
+2026-01-06 15:48:54,038 - __main__ - INFO - Event processed: Tray 87322, empty, CURD - Count: 17
+2026-01-06 15:48:55,039 - __main__ - INFO - Event processed: Tray 87323, empty, CURD - Count: 18
+2026-01-06 15:48:58,042 - __main__ - INFO - Event processed: Tray 87324, empty, CURD - Count: 19
+2026-01-06 15:48:59,544 - __main__ - INFO - Event processed: Tray 87325, empty, CURD - Count: 20
+2026-01-06 15:49:03,047 - __main__ - INFO - Event processed: Tray 87326, empty, CURD - Count: 21
+2026-01-06 15:49:04,549 - __main__ - INFO - Event processed: Tray 87327, empty, CURD - Count: 22
+2026-01-06 15:49:05,554 - __main__ - INFO - Event processed: Tray 100181, half, TONED - Count: 1452
+2026-01-06 15:49:06,051 - __main__ - INFO - Event processed: Tray 87328, empty, CURD - Count: 23
+2026-01-06 15:49:06,555 - __main__ - INFO - Event processed: Tray 100182, half, TONED - Count: 1453
+2026-01-06 15:49:08,053 - __main__ - INFO - Event processed: Tray 87329, empty, CURD - Count: 24
+2026-01-06 15:49:09,555 - __main__ - INFO - Event processed: Tray 87330, empty, CURD - Count: 25
+2026-01-06 15:49:13,558 - __main__ - INFO - Event processed: Tray 87331, empty, CURD - Count: 26
+2026-01-06 15:49:13,559 - __main__ - INFO - Event processed: Tray 100183, one, TONED - Count: 623
+2026-01-06 15:49:14,506 - __main__ - INFO - Event processed: Tray 53430, half, SHUBHAM - Count: 476
+2026-01-06 15:49:14,582 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:49:14] "[35m[1mGET /audio/half_shubham.wav?1767694754562 HTTP/1.1[0m" 206 -
+2026-01-06 15:49:15,060 - __main__ - INFO - Event processed: Tray 87332, empty, CURD - Count: 27
+2026-01-06 15:49:17,063 - __main__ - INFO - Event processed: Tray 87333, empty, CURD - Count: 28
+2026-01-06 15:49:18,565 - __main__ - INFO - Event processed: Tray 87334, empty, CURD - Count: 29
+2026-01-06 15:49:20,567 - __main__ - INFO - Event processed: Tray 87335, empty, CURD - Count: 30
+2026-01-06 15:49:22,069 - __main__ - INFO - Event processed: Tray 87336, empty, CURD - Count: 31
+2026-01-06 15:49:22,515 - __main__ - INFO - Event processed: Tray 128396, half, TONED - Count: 550
+2026-01-06 15:49:22,870 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:49:22] "[35m[1mGET /audio/half_toned.wav?1767694762690 HTTP/1.1[0m" 206 -
+2026-01-06 15:49:23,517 - __main__ - INFO - Event processed: Tray 128397, half, TONED - Count: 551
+2026-01-06 15:49:24,070 - __main__ - INFO - Event processed: Tray 87337, empty, CURD - Count: 32
+2026-01-06 15:49:24,675 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:49:24] "[35m[1mGET /audio/half_toned.wav?1767694764503 HTTP/1.1[0m" 206 -
+2026-01-06 15:49:25,572 - __main__ - INFO - Event processed: Tray 87338, empty, CURD - Count: 33
+2026-01-06 15:49:29,066 - __main__ - INFO - Event processed: Tray 100184, half, TONED - Count: 1454
+2026-01-06 15:49:29,574 - __main__ - INFO - Event processed: Tray 87339, empty, CURD - Count: 34
+2026-01-06 15:49:30,068 - __main__ - INFO - Event processed: Tray 100185, half, TONED - Count: 1455
+2026-01-06 15:49:30,576 - __main__ - INFO - Event processed: Tray 87340, empty, CURD - Count: 35
+2026-01-06 15:49:32,078 - __main__ - INFO - Event processed: Tray 87341, empty, CURD - Count: 36
+2026-01-06 15:49:32,570 - __main__ - INFO - Event processed: Tray 100186, half, TONED - Count: 1456
+2026-01-06 15:49:33,022 - __main__ - INFO - Event processed: Tray 128398, half, TONED - Count: 552
+2026-01-06 15:49:33,379 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:49:33] "[35m[1mGET /audio/half_toned.wav?1767694773197 HTTP/1.1[0m" 206 -
+2026-01-06 15:49:35,580 - __main__ - INFO - Event processed: Tray 87342, empty, CURD - Count: 37
+2026-01-06 15:49:38,574 - __main__ - INFO - Event processed: Tray 100187, one, TONED - Count: 624
+2026-01-06 15:49:38,583 - __main__ - INFO - Event processed: Tray 87343, empty, CURD - Count: 38
+2026-01-06 15:49:39,576 - __main__ - INFO - Event processed: Tray 100188, one, TONED - Count: 625
+2026-01-06 15:49:40,085 - __main__ - INFO - Event processed: Tray 87345, empty, CURD - Count: 39
+2026-01-06 15:49:40,578 - __main__ - INFO - Event processed: Tray 100189, one, TONED - Count: 626
+2026-01-06 15:49:46,581 - __main__ - INFO - Event processed: Tray 100190, half, TONED - Count: 1457
+2026-01-06 15:49:46,589 - __main__ - INFO - Event processed: Tray 87346, empty, CURD - Count: 40
+2026-01-06 15:49:47,029 - __main__ - INFO - Event processed: Tray 128399, half, SHUBHAM - Count: 322
+2026-01-06 15:49:47,392 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:49:47] "[35m[1mGET /audio/half_shubham.wav?1767694787214 HTTP/1.1[0m" 206 -
+2026-01-06 15:49:47,591 - __main__ - INFO - Event processed: Tray 87347, empty, CURD - Count: 41
+2026-01-06 15:49:49,084 - __main__ - INFO - Event processed: Tray 100191, one, TONED - Count: 627
+2026-01-06 15:49:49,092 - __main__ - INFO - Event processed: Tray 87348, empty, CURD - Count: 42
+2026-01-06 15:49:50,032 - __main__ - INFO - Event processed: Tray 128400, one, TONED - Count: 553
+2026-01-06 15:49:50,392 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:49:50] "[35m[1mGET /audio/one_toned.wav?1767694790211 HTTP/1.1[0m" 206 -
+2026-01-06 15:49:50,594 - __main__ - INFO - Event processed: Tray 87349, empty, CURD - Count: 43
+2026-01-06 15:49:51,534 - __main__ - INFO - Event processed: Tray 128401, one, TONED - Count: 554
+2026-01-06 15:49:51,596 - __main__ - INFO - Event processed: Tray 87350, empty, CURD - Count: 44
+2026-01-06 15:49:52,621 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:49:52] "[35m[1mGET /audio/one_toned.wav?1767694792434 HTTP/1.1[0m" 206 -
+2026-01-06 15:49:53,022 - __main__ - INFO - Event processed: Tray 53431, half, SHUBHAM - Count: 477
+2026-01-06 15:49:53,036 - __main__ - INFO - Event processed: Tray 128402, half, SHUBHAM - Count: 323
+2026-01-06 15:49:53,087 - __main__ - INFO - Event processed: Tray 100192, one, TONED - Count: 628
+2026-01-06 15:49:53,115 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:49:53] "[35m[1mGET /audio/half_shubham.wav?1767694793100 HTTP/1.1[0m" 206 -
+2026-01-06 15:49:53,537 - __main__ - INFO - Event processed: Tray 128403, half, TONED - Count: 553
+2026-01-06 15:49:53,598 - __main__ - INFO - Event processed: Tray 87351, empty, CURD - Count: 45
+2026-01-06 15:49:54,414 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:49:54] "[35m[1mGET /audio/half_shubham.wav?1767694794233 HTTP/1.1[0m" 206 -
+2026-01-06 15:49:54,589 - __main__ - INFO - Event processed: Tray 100193, half, TONED - Count: 1458
+2026-01-06 15:49:54,600 - __main__ - INFO - Event processed: Tray 87352, empty, CURD - Count: 46
+2026-01-06 15:49:55,540 - __main__ - INFO - Event processed: Tray 128404, one, TONED - Count: 555
+2026-01-06 15:49:55,591 - __main__ - INFO - Event processed: Tray 100194, half, TONED - Count: 1459
+2026-01-06 15:49:56,203 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:49:56] "[35m[1mGET /audio/half_toned.wav?1767694796027 HTTP/1.1[0m" 206 -
+2026-01-06 15:49:57,102 - __main__ - INFO - Event processed: Tray 87353, empty, CURD - Count: 47
+2026-01-06 15:49:57,920 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:49:57] "[35m[1mGET /audio/one_toned.wav?1767694797745 HTTP/1.1[0m" 206 -
+2026-01-06 15:49:58,604 - __main__ - INFO - Event processed: Tray 87354, empty, CURD - Count: 48
+2026-01-06 15:50:00,106 - __main__ - INFO - Event processed: Tray 87355, empty, CURD - Count: 49
+2026-01-06 15:50:01,108 - __main__ - INFO - Event processed: Tray 87356, empty, CURD - Count: 50
+2026-01-06 15:50:03,109 - __main__ - INFO - Event processed: Tray 87357, empty, CURD - Count: 51
+2026-01-06 15:50:04,611 - __main__ - INFO - Event processed: Tray 87358, empty, CURD - Count: 52
+2026-01-06 15:50:06,596 - __main__ - INFO - Event processed: Tray 100195, half, TONED - Count: 1460
+2026-01-06 15:50:07,113 - __main__ - INFO - Event processed: Tray 87359, empty, CURD - Count: 53
+2026-01-06 15:50:07,597 - __main__ - INFO - Event processed: Tray 100196, one, TONED - Count: 629
+2026-01-06 15:50:09,114 - __main__ - INFO - Event processed: Tray 87360, empty, CURD - Count: 54
+2026-01-06 15:50:10,046 - __main__ - INFO - Event processed: Tray 128405, half, TONED - Count: 554
+2026-01-06 15:50:10,116 - __main__ - INFO - Event processed: Tray 87361, empty, CURD - Count: 55
+2026-01-06 15:50:10,418 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:50:10] "[35m[1mGET /audio/half_toned.wav?1767694810223 HTTP/1.1[0m" 206 -
+2026-01-06 15:50:10,599 - __main__ - INFO - Event processed: Tray 100197, half, TONED - Count: 1461
+2026-01-06 15:50:11,548 - __main__ - INFO - Event processed: Tray 128406, half, TONED - Count: 555
+2026-01-06 15:50:11,600 - __main__ - INFO - Event processed: Tray 100198, one, TONED - Count: 630
+2026-01-06 15:50:12,153 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:50:12] "[35m[1mGET /audio/half_toned.wav?1767694811968 HTTP/1.1[0m" 206 -
+2026-01-06 15:50:12,619 - __main__ - INFO - Event processed: Tray 87362, empty, CURD - Count: 56
+2026-01-06 15:50:13,102 - __main__ - INFO - Event processed: Tray 100199, one, TONED - Count: 631
+2026-01-06 15:50:14,104 - __main__ - INFO - Event processed: Tray 100200, half, TONED - Count: 1462
+2026-01-06 15:50:14,621 - __main__ - INFO - Event processed: Tray 87363, empty, CURD - Count: 57
+2026-01-06 15:50:16,623 - __main__ - INFO - Event processed: Tray 87364, empty, CURD - Count: 58
+2026-01-06 15:50:17,532 - __main__ - INFO - Event processed: Tray 53432, half, SHUBHAM - Count: 478
+2026-01-06 15:50:17,628 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:50:17] "[35m[1mGET /audio/half_shubham.wav?1767694817620 HTTP/1.1[0m" 206 -
+2026-01-06 15:50:18,608 - __main__ - INFO - Event processed: Tray 100201, half, TONED - Count: 1463
+2026-01-06 15:50:18,626 - __main__ - INFO - Event processed: Tray 87365, empty, CURD - Count: 59
+2026-01-06 15:50:20,128 - __main__ - INFO - Event processed: Tray 87366, empty, CURD - Count: 60
+2026-01-06 15:50:21,610 - __main__ - INFO - Event processed: Tray 100202, half, TONED - Count: 1464
+2026-01-06 15:50:22,130 - __main__ - INFO - Event processed: Tray 87367, empty, CURD - Count: 61
+2026-01-06 15:50:23,632 - __main__ - INFO - Event processed: Tray 87368, empty, CURD - Count: 62
+2026-01-06 15:50:24,054 - __main__ - INFO - Event processed: Tray 128407, half, TONED - Count: 556
+2026-01-06 15:50:24,427 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:50:24] "[35m[1mGET /audio/half_toned.wav?1767694824245 HTTP/1.1[0m" 206 -
+2026-01-06 15:50:25,055 - __main__ - INFO - Event processed: Tray 128408, half, TONED - Count: 557
+2026-01-06 15:50:25,556 - __main__ - INFO - Event processed: Tray 128409, one, TONED - Count: 556
+2026-01-06 15:50:25,634 - __main__ - INFO - Event processed: Tray 87369, empty, CURD - Count: 63
+2026-01-06 15:50:26,113 - __main__ - INFO - Event processed: Tray 100203, one, TONED - Count: 632
+2026-01-06 15:50:26,257 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:50:26] "[35m[1mGET /audio/half_toned.wav?1767694826084 HTTP/1.1[0m" 206 -
+2026-01-06 15:50:27,614 - __main__ - INFO - Event processed: Tray 100204, one, TONED - Count: 633
+2026-01-06 15:50:27,636 - __main__ - INFO - Event processed: Tray 87370, empty, CURD - Count: 64
+2026-01-06 15:50:27,987 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:50:27] "[35m[1mGET /audio/one_toned.wav?1767694827812 HTTP/1.1[0m" 206 -
+2026-01-06 15:50:28,638 - __main__ - INFO - Event processed: Tray 87371, empty, CURD - Count: 65
+2026-01-06 15:50:29,116 - __main__ - INFO - Event processed: Tray 100205, one, TONED - Count: 634
+2026-01-06 15:50:30,639 - __main__ - INFO - Event processed: Tray 87372, empty, CURD - Count: 66
+2026-01-06 15:50:33,141 - __main__ - INFO - Event processed: Tray 87373, empty, CURD - Count: 67
+2026-01-06 15:50:34,643 - __main__ - INFO - Event processed: Tray 87374, empty, CURD - Count: 68
+2026-01-06 15:50:35,120 - __main__ - INFO - Event processed: Tray 100206, half, TONED - Count: 1465
+2026-01-06 15:50:36,645 - __main__ - INFO - Event processed: Tray 87375, empty, CURD - Count: 69
+2026-01-06 15:50:37,147 - __main__ - INFO - Event processed: Tray 87376, empty, CURD - Count: 70
+2026-01-06 15:50:39,122 - __main__ - INFO - Event processed: Tray 100207, one, TONED - Count: 635
+2026-01-06 15:50:39,561 - __main__ - INFO - Event processed: Tray 128410, half, SHUBHAM - Count: 324
+2026-01-06 15:50:39,923 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:50:39] "[35m[1mGET /audio/half_shubham.wav?1767694839741 HTTP/1.1[0m" 206 -
+2026-01-06 15:50:43,477 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 5, Port: 5005
+2026-01-06 15:50:43,480 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 15:50:43,480 - __main__ - INFO - State loaded | inode=18091564 offset=12467348
+2026-01-06 15:50:43,481 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_5.log
+2026-01-06 15:50:43,481 - __main__ - INFO - Background threads started
+2026-01-06 15:50:43,481 - __main__ - INFO - Dashboard available at: http://localhost:5005
+2026-01-06 15:50:43,485 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 4, Port: 5004
+2026-01-06 15:50:43,485 - __main__ - INFO - Caught up to live log
+2026-01-06 15:50:43,487 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5005
+ * Running on http://192.168.0.115:5005
+2026-01-06 15:50:43,487 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 15:50:43,488 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 15:50:43,488 - __main__ - INFO - State loaded | inode=18091567 offset=8976613
+2026-01-06 15:50:43,488 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_4.log
+2026-01-06 15:50:43,489 - __main__ - INFO - Background threads started
+2026-01-06 15:50:43,489 - __main__ - INFO - Dashboard available at: http://localhost:5004
+2026-01-06 15:50:43,489 - __main__ - INFO - Caught up to live log
+2026-01-06 15:50:43,490 - __main__ - INFO - Starting Enhanced Conveyor Dashboard - Conveyor: 2, Port: 5002
+2026-01-06 15:50:43,493 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5004
+ * Running on http://192.168.0.115:5004
+2026-01-06 15:50:43,493 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 15:50:43,493 - __main__ - INFO - Starting Enhanced Conveyor Dashboard with Audio Queue System
+2026-01-06 15:50:43,493 - __main__ - INFO - State loaded | inode=18121195 offset=21726539
+2026-01-06 15:50:43,493 - __main__ - INFO - Starting log tailer for: /home/bamul-bk/project/Bamul_Final/camera_2.log
+2026-01-06 15:50:43,494 - __main__ - INFO - Background threads started
+2026-01-06 15:50:43,494 - __main__ - INFO - Dashboard available at: http://localhost:5002
+2026-01-06 15:50:43,496 - __main__ - INFO - Caught up to live log
+2026-01-06 15:50:43,499 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.0.115:5002
+2026-01-06 15:50:43,499 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-01-06 15:50:43,986 - __main__ - INFO - Event processed: Tray 87379, empty, CURD - Count: 73
+2026-01-06 15:50:44,988 - __main__ - INFO - Event processed: Tray 87380, empty, CURD - Count: 74
+2026-01-06 15:50:45,323 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:50:45] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:50:45,997 - __main__ - INFO - Event processed: Tray 128413, half, TONED - Count: 559
+2026-01-06 15:50:46,355 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:50:46] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:50:46,398 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:50:46] "[35m[1mGET /audio/half_toned.wav?1767694846216 HTTP/1.1[0m" 206 -
+2026-01-06 15:50:46,498 - __main__ - INFO - Event processed: Tray 128414, half, TONED - Count: 560
+2026-01-06 15:50:47,991 - __main__ - INFO - Event processed: Tray 87381, empty, CURD - Count: 75
+2026-01-06 15:50:48,500 - __main__ - INFO - Event processed: Tray 128415, half, TONED - Count: 561
+2026-01-06 15:50:48,526 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:50:48] "[35m[1mGET /audio/half_toned.wav?1767694848361 HTTP/1.1[0m" 206 -
+2026-01-06 15:50:49,492 - __main__ - INFO - Event processed: Tray 87382, empty, CURD - Count: 76
+2026-01-06 15:50:50,002 - __main__ - INFO - Event processed: Tray 128416, one, SHUBHAM - Count: 173
+2026-01-06 15:50:50,223 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:50:50] "[35m[1mGET /audio/half_toned.wav?1767694850051 HTTP/1.1[0m" 206 -
+2026-01-06 15:50:51,494 - __main__ - INFO - Event processed: Tray 87383, empty, CURD - Count: 77
+2026-01-06 15:50:51,505 - __main__ - INFO - Event processed: Tray 128417, one, TONED - Count: 558
+2026-01-06 15:50:51,926 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:50:51] "[35m[1mGET /audio/one_shubham.wav?1767694851737 HTTP/1.1[0m" 206 -
+2026-01-06 15:50:51,996 - __main__ - INFO - Event processed: Tray 87384, empty, CURD - Count: 78
+2026-01-06 15:50:53,650 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:50:53] "[35m[1mGET /audio/one_toned.wav?1767694853462 HTTP/1.1[0m" 206 -
+2026-01-06 15:50:53,998 - __main__ - INFO - Event processed: Tray 87385, empty, CURD - Count: 79
+2026-01-06 15:50:57,001 - __main__ - INFO - Event processed: Tray 87386, empty, CURD - Count: 80
+2026-01-06 15:50:57,008 - __main__ - INFO - Event processed: Tray 128418, one, TONED - Count: 559
+2026-01-06 15:50:57,424 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:50:57] "[35m[1mGET /audio/one_toned.wav?1767694857239 HTTP/1.1[0m" 206 -
+2026-01-06 15:50:57,502 - __main__ - INFO - Event processed: Tray 87387, empty, CURD - Count: 81
+2026-01-06 15:50:59,504 - __main__ - INFO - Event processed: Tray 87388, empty, CURD - Count: 82
+2026-01-06 15:51:01,011 - __main__ - INFO - Event processed: Tray 128419, one, TONED - Count: 560
+2026-01-06 15:51:01,429 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:01] "[35m[1mGET /audio/one_toned.wav?1767694861240 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:02,507 - __main__ - INFO - Event processed: Tray 87389, empty, CURD - Count: 83
+2026-01-06 15:51:03,013 - __main__ - INFO - Event processed: Tray 128420, half, TONED - Count: 562
+2026-01-06 15:51:03,423 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:03] "[35m[1mGET /audio/half_toned.wav?1767694863240 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:04,009 - __main__ - INFO - Event processed: Tray 87390, empty, CURD - Count: 84
+2026-01-06 15:51:04,015 - __main__ - INFO - Event processed: Tray 128421, half, SHUBHAM - Count: 325
+2026-01-06 15:51:05,226 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:05] "[35m[1mGET /audio/half_shubham.wav?1767694865055 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:05,517 - __main__ - INFO - Event processed: Tray 128422, one, TONED - Count: 561
+2026-01-06 15:51:06,011 - __main__ - INFO - Event processed: Tray 87391, empty, CURD - Count: 85
+2026-01-06 15:51:06,019 - __main__ - INFO - Event processed: Tray 128423, one, TONED - Count: 562
+2026-01-06 15:51:06,513 - __main__ - INFO - Event processed: Tray 87392, empty, CURD - Count: 86
+2026-01-06 15:51:07,019 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:07] "[35m[1mGET /audio/one_toned.wav?1767694866834 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:08,515 - __main__ - INFO - Event processed: Tray 87393, empty, CURD - Count: 87
+2026-01-06 15:51:08,720 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:08] "[35m[1mGET /audio/one_toned.wav?1767694868554 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:10,522 - __main__ - INFO - Event processed: Tray 128424, half, TONED - Count: 563
+2026-01-06 15:51:10,927 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:10] "[35m[1mGET /audio/half_toned.wav?1767694870740 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:11,518 - __main__ - INFO - Event processed: Tray 87394, empty, CURD - Count: 88
+2026-01-06 15:51:11,524 - __main__ - INFO - Event processed: Tray 128425, one, SHUBHAM - Count: 174
+2026-01-06 15:51:12,649 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:12] "[35m[1mGET /audio/one_shubham.wav?1767694872467 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:13,520 - __main__ - INFO - Event processed: Tray 87395, empty, CURD - Count: 89
+2026-01-06 15:51:15,022 - __main__ - INFO - Event processed: Tray 87396, empty, CURD - Count: 90
+2026-01-06 15:51:15,527 - __main__ - INFO - Event processed: Tray 128426, half, TONED - Count: 564
+2026-01-06 15:51:15,926 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:15] "[35m[1mGET /audio/half_toned.wav?1767694875738 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:17,024 - __main__ - INFO - Event processed: Tray 87397, empty, CURD - Count: 91
+2026-01-06 15:51:17,029 - __main__ - INFO - Event processed: Tray 128427, one, TONED - Count: 563
+2026-01-06 15:51:18,026 - __main__ - INFO - Event processed: Tray 87398, empty, CURD - Count: 92
+2026-01-06 15:51:18,171 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:18] "[35m[1mGET /audio/one_toned.wav?1767694877980 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:18,662 - __main__ - INFO - Dashboard accessed for conveyor 2
+2026-01-06 15:51:18,666 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:18] "GET / HTTP/1.1" 200 -
+2026-01-06 15:51:18,681 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:18] "[33mGET /logo/bamullogo.png HTTP/1.1[0m" 404 -
+2026-01-06 15:51:18,682 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:18] "[33mGET /logo/kmfnandhinilogo.jpg HTTP/1.1[0m" 404 -
+2026-01-06 15:51:18,710 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:18] "GET /stream HTTP/1.1" 200 -
+2026-01-06 15:51:18,753 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:18] "[35m[1mGET /audio/one_toned.wav?1767694878747 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:18,863 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-06 15:51:20,528 - __main__ - INFO - Event processed: Tray 87399, empty, CURD - Count: 93
+2026-01-06 15:51:21,504 - __main__ - INFO - Event processed: Tray 53433, half, SHUBHAM - Count: 479
+2026-01-06 15:51:21,532 - __main__ - INFO - Event processed: Tray 128428, half, TONED - Count: 565
+2026-01-06 15:51:21,721 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:21] "[35m[1mGET /audio/half_toned.wav?1767694881716 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:21,867 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:51:21] "[35m[1mGET /audio/half_shubham.wav?1767694881863 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:21,926 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:21] "[35m[1mGET /audio/half_toned.wav?1767694881746 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:22,029 - __main__ - INFO - Event processed: Tray 87400, empty, CURD - Count: 94
+2026-01-06 15:51:22,534 - __main__ - INFO - Event processed: Tray 128429, half, TONED - Count: 566
+2026-01-06 15:51:22,722 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:22] "[35m[1mGET /audio/half_toned.wav?1767694882717 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:23,536 - __main__ - INFO - Event processed: Tray 128430, half, TONED - Count: 567
+2026-01-06 15:51:23,725 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:23] "[35m[1mGET /audio/half_toned.wav?1767694883718 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:23,730 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:23] "[35m[1mGET /audio/half_toned.wav?1767694883564 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:24,031 - __main__ - INFO - Event processed: Tray 87401, empty, CURD - Count: 95
+2026-01-06 15:51:25,038 - __main__ - INFO - Event processed: Tray 128431, half, TONED - Count: 568
+2026-01-06 15:51:25,225 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:25] "[35m[1mGET /audio/half_toned.wav?1767694885219 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:25,452 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:25] "[35m[1mGET /audio/half_toned.wav?1767694885275 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:25,532 - __main__ - INFO - Event processed: Tray 87402, empty, CURD - Count: 96
+2026-01-06 15:51:27,034 - __main__ - INFO - Event processed: Tray 87404, empty, CURD - Count: 97
+2026-01-06 15:51:27,040 - __main__ - INFO - Event processed: Tray 128432, half, SHUBHAM - Count: 326
+2026-01-06 15:51:27,155 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:27] "[35m[1mGET /audio/half_toned.wav?1767694886988 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:27,226 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:27] "[35m[1mGET /audio/half_shubham.wav?1767694887222 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:27,535 - __main__ - INFO - Event processed: Tray 87403, empty, CURD - Count: 98
+2026-01-06 15:51:28,838 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:28] "[35m[1mGET /audio/half_shubham.wav?1767694888668 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:29,042 - __main__ - INFO - Event processed: Tray 128433, one, TONED - Count: 564
+2026-01-06 15:51:29,227 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:29] "[35m[1mGET /audio/one_toned.wav?1767694889222 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:30,037 - __main__ - INFO - Event processed: Tray 87405, empty, CURD - Count: 99
+2026-01-06 15:51:30,548 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:30] "[35m[1mGET /audio/one_toned.wav?1767694890372 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:32,539 - __main__ - INFO - Event processed: Tray 87406, empty, CURD - Count: 100
+2026-01-06 15:51:33,545 - __main__ - INFO - Event processed: Tray 128434, half, TONED - Count: 569
+2026-01-06 15:51:33,730 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:33] "[35m[1mGET /audio/half_toned.wav?1767694893727 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:33,931 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:33] "[35m[1mGET /audio/half_toned.wav?1767694893750 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:35,041 - __main__ - INFO - Event processed: Tray 87407, empty, CURD - Count: 101
+2026-01-06 15:51:37,043 - __main__ - INFO - Event processed: Tray 87408, empty, CURD - Count: 102
+2026-01-06 15:51:38,544 - __main__ - INFO - Event processed: Tray 87409, empty, CURD - Count: 103
+2026-01-06 15:51:39,546 - __main__ - INFO - Event processed: Tray 87410, empty, CURD - Count: 104
+2026-01-06 15:51:40,049 - __main__ - INFO - Event processed: Tray 128435, half, TONED - Count: 570
+2026-01-06 15:51:40,240 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:40] "[35m[1mGET /audio/half_toned.wav?1767694900233 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:40,441 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:40] "[35m[1mGET /audio/half_toned.wav?1767694900252 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:41,051 - __main__ - INFO - Event processed: Tray 128436, one, TONED - Count: 565
+2026-01-06 15:51:41,240 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:41] "[35m[1mGET /audio/one_toned.wav?1767694901233 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:42,048 - __main__ - INFO - Event processed: Tray 87411, empty, CURD - Count: 105
+2026-01-06 15:51:42,259 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:42] "[35m[1mGET /audio/one_toned.wav?1767694902081 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:42,550 - __main__ - INFO - Event processed: Tray 87412, empty, CURD - Count: 106
+2026-01-06 15:51:42,554 - __main__ - INFO - Event processed: Tray 128437, one, SHUBHAM - Count: 175
+2026-01-06 15:51:42,741 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:42] "[35m[1mGET /audio/one_shubham.wav?1767694902736 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:43,958 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:43] "[35m[1mGET /audio/one_shubham.wav?1767694903789 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:44,056 - __main__ - INFO - Event processed: Tray 128438, one, TONED - Count: 566
+2026-01-06 15:51:44,242 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:44] "[35m[1mGET /audio/one_toned.wav?1767694904237 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:44,552 - __main__ - INFO - Event processed: Tray 87413, empty, CURD - Count: 107
+2026-01-06 15:51:45,668 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:45] "[35m[1mGET /audio/one_toned.wav?1767694905500 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:46,558 - __main__ - INFO - Event processed: Tray 128439, half, TONED - Count: 571
+2026-01-06 15:51:46,746 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:46] "[35m[1mGET /audio/half_toned.wav?1767694906740 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:47,380 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:47] "[35m[1mGET /audio/half_toned.wav?1767694907197 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:47,554 - __main__ - INFO - Event processed: Tray 87414, empty, CURD - Count: 108
+2026-01-06 15:51:48,060 - __main__ - INFO - Event processed: Tray 128440, half, TONED - Count: 572
+2026-01-06 15:51:48,248 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:48] "[35m[1mGET /audio/half_toned.wav?1767694908242 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:49,062 - __main__ - INFO - Event processed: Tray 128441, half, TONED - Count: 573
+2026-01-06 15:51:49,093 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:49] "[35m[1mGET /audio/half_toned.wav?1767694908919 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:49,249 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:49] "[35m[1mGET /audio/half_toned.wav?1767694909243 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:49,555 - __main__ - INFO - Event processed: Tray 87415, empty, CURD - Count: 109
+2026-01-06 15:51:50,805 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:50] "[35m[1mGET /audio/half_toned.wav?1767694910626 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:51,057 - __main__ - INFO - Event processed: Tray 87416, empty, CURD - Count: 110
+2026-01-06 15:51:52,565 - __main__ - INFO - Event processed: Tray 128442, half, TONED - Count: 574
+2026-01-06 15:51:52,752 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:52] "[35m[1mGET /audio/half_toned.wav?1767694912746 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:52,961 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:52] "[35m[1mGET /audio/half_toned.wav?1767694912782 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:53,058 - __main__ - INFO - Event processed: Tray 87417, empty, CURD - Count: 111
+2026-01-06 15:51:53,567 - __main__ - INFO - Event processed: Tray 128443, one, TONED - Count: 567
+2026-01-06 15:51:53,753 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:53] "[35m[1mGET /audio/one_toned.wav?1767694913748 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:54,569 - __main__ - INFO - Event processed: Tray 128444, one, TONED - Count: 568
+2026-01-06 15:51:54,756 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:54] "[35m[1mGET /audio/one_toned.wav?1767694914748 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:54,762 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:54] "[35m[1mGET /audio/one_toned.wav?1767694914585 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:55,060 - __main__ - INFO - Event processed: Tray 87418, empty, CURD - Count: 112
+2026-01-06 15:51:56,071 - __main__ - INFO - Event processed: Tray 128445, half, TONED - Count: 575
+2026-01-06 15:51:56,256 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:56] "[35m[1mGET /audio/half_toned.wav?1767694916250 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:56,484 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:56] "[35m[1mGET /audio/one_toned.wav?1767694916312 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:56,561 - __main__ - INFO - Event processed: Tray 87419, empty, CURD - Count: 113
+2026-01-06 15:51:57,573 - __main__ - INFO - Event processed: Tray 128446, half, TONED - Count: 576
+2026-01-06 15:51:57,755 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:57] "[35m[1mGET /audio/half_toned.wav?1767694917751 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:58,555 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:51:58] "[35m[1mGET /audio/half_toned.wav?1767694918385 HTTP/1.1[0m" 206 -
+2026-01-06 15:51:58,563 - __main__ - INFO - Event processed: Tray 87420, empty, CURD - Count: 114
+2026-01-06 15:51:59,064 - __main__ - INFO - Event processed: Tray 87421, empty, CURD - Count: 115
+2026-01-06 15:51:59,075 - __main__ - INFO - Event processed: Tray 128447, half, TONED - Count: 577
+2026-01-06 15:51:59,259 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:51:59] "[35m[1mGET /audio/half_toned.wav?1767694919254 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:00,077 - __main__ - INFO - Event processed: Tray 128448, half, TONED - Count: 578
+2026-01-06 15:52:00,260 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:52:00] "[35m[1mGET /audio/half_toned.wav?1767694920254 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:00,306 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:52:00] "[35m[1mGET /audio/half_toned.wav?1767694920128 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:01,579 - __main__ - INFO - Event processed: Tray 128449, half, SHUBHAM - Count: 327
+2026-01-06 15:52:01,762 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:52:01] "[35m[1mGET /audio/half_shubham.wav?1767694921756 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:02,007 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:52:02] "[35m[1mGET /audio/half_toned.wav?1767694921833 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:02,066 - __main__ - INFO - Event processed: Tray 87422, empty, CURD - Count: 116
+2026-01-06 15:52:02,567 - __main__ - INFO - Event processed: Tray 87423, empty, CURD - Count: 117
+2026-01-06 15:52:04,062 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:52:04] "[35m[1mGET /audio/half_toned.wav?1767694923889 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:05,569 - __main__ - INFO - Event processed: Tray 87424, empty, CURD - Count: 118
+2026-01-06 15:52:05,788 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:52:05] "[35m[1mGET /audio/half_shubham.wav?1767694925606 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:06,582 - __main__ - INFO - Event processed: Tray 128450, half, TONED - Count: 579
+2026-01-06 15:52:06,771 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:52:06] "[35m[1mGET /audio/half_toned.wav?1767694926761 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:07,571 - __main__ - INFO - Event processed: Tray 87425, empty, CURD - Count: 119
+2026-01-06 15:52:07,584 - __main__ - INFO - Event processed: Tray 128451, one, TONED - Count: 569
+2026-01-06 15:52:07,594 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:52:07] "[35m[1mGET /audio/half_toned.wav?1767694927417 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:07,769 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:52:07] "[35m[1mGET /audio/one_toned.wav?1767694927762 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:08,525 - __main__ - INFO - Event processed: Tray 53434, one, SHUBHAM - Count: 384
+2026-01-06 15:52:08,895 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:52:08] "[35m[1mGET /audio/one_shubham.wav?1767694928895 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:09,086 - __main__ - INFO - Event processed: Tray 128452, one, SHUBHAM - Count: 176
+2026-01-06 15:52:09,268 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:52:09] "[35m[1mGET /audio/one_shubham.wav?1767694929263 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:09,291 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:52:09] "[35m[1mGET /audio/one_toned.wav?1767694929122 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:09,573 - __main__ - INFO - Event processed: Tray 87426, empty, CURD - Count: 120
+2026-01-06 15:52:10,027 - __main__ - INFO - Event processed: Tray 53435, half, SHUBHAM - Count: 480
+2026-01-06 15:52:10,088 - __main__ - INFO - Event processed: Tray 128453, half, SHUBHAM - Count: 328
+2026-01-06 15:52:10,268 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:52:10] "[35m[1mGET /audio/half_shubham.wav?1767694930264 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:10,395 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:52:10] "[35m[1mGET /audio/half_shubham.wav?1767694930396 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:11,076 - __main__ - INFO - Event processed: Tray 87427, empty, CURD - Count: 121
+2026-01-06 15:52:11,095 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:52:11] "[35m[1mGET /audio/one_shubham.wav?1767694930921 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:12,813 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:52:12] "[35m[1mGET /audio/half_shubham.wav?1767694932634 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:13,078 - __main__ - INFO - Event processed: Tray 87428, empty, CURD - Count: 122
+2026-01-06 15:52:13,091 - __main__ - INFO - Event processed: Tray 128454, one, TONED - Count: 570
+2026-01-06 15:52:13,272 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:52:13] "[35m[1mGET /audio/one_toned.wav?1767694933267 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:14,517 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:52:14] "[35m[1mGET /audio/one_toned.wav?1767694934339 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:15,081 - __main__ - INFO - Event processed: Tray 87429, empty, CURD - Count: 123
+2026-01-06 15:52:16,093 - __main__ - INFO - Event processed: Tray 128455, half, TONED - Count: 580
+2026-01-06 15:52:16,273 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:52:16] "[35m[1mGET /audio/half_toned.wav?1767694936269 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:16,476 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:52:16] "[35m[1mGET /audio/half_toned.wav?1767694936283 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:16,583 - __main__ - INFO - Event processed: Tray 87430, empty, CURD - Count: 124
+2026-01-06 15:52:17,094 - __main__ - INFO - Event processed: Tray 128456, one, TONED - Count: 571
+2026-01-06 15:52:17,275 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:52:17] "[35m[1mGET /audio/one_toned.wav?1767694937271 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:17,585 - __main__ - INFO - Event processed: Tray 87431, empty, CURD - Count: 125
+2026-01-06 15:52:18,030 - __main__ - INFO - Event processed: Tray 53436, half, SHUBHAM - Count: 481
+2026-01-06 15:52:18,096 - __main__ - INFO - Event processed: Tray 128457, half, TONED - Count: 581
+2026-01-06 15:52:18,275 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:52:18] "[35m[1mGET /audio/half_toned.wav?1767694938270 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:18,300 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:52:18] "[35m[1mGET /audio/one_toned.wav?1767694938125 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:18,413 - werkzeug - INFO - 192.168.0.114 - - [06/Jan/2026 15:52:18] "[35m[1mGET /audio/half_shubham.wav?1767694938403 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:19,098 - __main__ - INFO - Event processed: Tray 128458, half, TONED - Count: 582
+2026-01-06 15:52:19,276 - werkzeug - INFO - 192.168.0.115 - - [06/Jan/2026 15:52:19] "[35m[1mGET /audio/half_toned.wav?1767694939272 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:19,587 - __main__ - INFO - Event processed: Tray 87432, empty, CURD - Count: 126
+2026-01-06 15:52:20,422 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:52:20] "[35m[1mGET /audio/half_toned.wav?1767694940238 HTTP/1.1[0m" 206 -
+2026-01-06 15:52:21,089 - __main__ - INFO - Event processed: Tray 87433, empty, CURD - Count: 127
+2026-01-06 15:52:22,154 - werkzeug - INFO - 192.168.0.117 - - [06/Jan/2026 15:52:22] "[35m[1mGET /audio/half_toned.wav?1767694941970 HTTP/1.1[0m" 206 -
